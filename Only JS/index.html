@@ -1,0 +1,131 @@
+<script>
+    // const arr = [
+    //     { id: 1, author: 'john' },
+    //     { id: 2, author: 'gardon' },
+    //     { id: 3, author: 'john' },
+    //     { id: 4, author: 'roy' },
+    // ];
+
+    //   const modifiedArr = arr.filter((item, index, self) =>
+    //     index === self.findIndex((t) => t.author === item.author)
+    //   );
+    //   console.log(modifiedArr);
+
+    // const modifiedArr = arr.filter((Obj, index, self) => {
+    //     return index === self.findIndex(x => x.author === Obj.author)
+    // });
+    // console.log(modifiedArr);
+
+    // console.log(false == [])
+    // console.log(false == ![])
+
+    // function findPrimeNumbers(limit) {
+    //     let isPrimeNumbers = [];
+    //     for (let i = 2; i <= limit; i++) {
+    //         let isPrime = true;
+    //         for (let j = 2; j <= i/2; j++) {
+    //             if (i%j === 0) {
+    //                 isPrime = false;
+    //             }
+    //         }        
+    //         if (isPrime) {
+    //             isPrimeNumbers.push(i);
+    //         }
+    //     }
+    //     return isPrimeNumbers;
+    // }
+    // let abc = findPrimeNumbers(50);
+    // console.log(abc)
+
+    // function pyramid() {
+    //     let isNum = 1;
+    //     for (let i = 1; i <= 5; i++) {
+    //         let isArray = [];
+    //         for (let j = 1; j <= i; j++) {
+    //             isArray.push(isNum++);
+    //         }
+    //         console.log(isArray.join(' '))
+    //     }
+    // }
+    // pyramid()
+
+    // let fib = [0, 1];
+    // for (let i = 2; i <= 10; i++) {
+    //     fib[i] = fib[i - 1] + fib[i - 2];
+    // }
+    // console.log(fib)
+
+    // let arr = [3, 4, 6, 7, 1];
+    // let target = 7;
+    // let res = [];
+    // for (let i = 0; i < arr.length; i++) {
+    //     for (let j = i + 1; j <= arr.length; j++) {
+    //         if (arr[i] + arr[j] === target) {
+    //             res.push(arr[i], arr[j])
+    //         }
+    //     }
+    // }
+    // console.log(res)
+
+
+    // let empData = [
+    //     { framework: 'React.JS', website: 'Paypal' },
+    //     { framework: 'React.JS', website: 'Tesla' },
+    //     { framework: 'Angular', website: 'Google' },
+    //     { framework: 'Vue.JS', website: 'Vue' },
+    //     { framework: 'JavaScript', website: 'inblack67' }
+    // ];
+
+    // let countOfres = {};
+    // let Res = [];
+    // for (let i = 0; i < empData.length; i++) {
+    //      let fw = empData[i].framework;
+    //     if (!countOfres[fw]) {
+    //         countOfres[fw] = { victim: fw, count: 1 }
+    //         Res.push(countOfres[fw]);
+    //     } else {
+    //         countOfres[fw].count++;
+    //     }
+    // }
+    // console.log(Res, 'countOfres')
+
+    // let countOfRes = {}
+    // let Res = [];
+    // for (let i = 0; i < empData.length; i++) {
+    //     if (!countOfRes[empData[i].framework]) {
+    //         countOfRes[empData[i].framework] = { victim: empData[i].framework, count: 1 }
+    //         Res.push(countOfRes[empData[i].framework]);
+    //     } else {
+    //         countOfRes[empData[i].framework].count++;
+    //     }
+    // }
+    // console.log(Res)
+            // let str = "aaabbbcccdd";
+            // let res = {}
+            // for (let i = 0; i < str.length; i++) {
+            //     if (!res[str[i]]) {
+            //         res[str[i]] = 1
+            //     } else {
+            //         res[str[i]]++;
+            //     }
+            // }
+            // let fRes = ''
+            // for (let [key, value] of Object.entries(res)) {
+            //     fRes += key.repeat(value) + value;
+            // }
+            // console.log(fRes)
+        
+
+let str = "thisIsATest";
+let res = ''
+for (let i = 0; i < str.length; i++) {
+    if (str[i] === str[i].toUpperCase() && i !== 0) {
+        res += "_";
+    }
+        res += str[i];
+}
+console.log(res)
+
+
+
+</script>

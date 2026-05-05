@@ -1,0 +1,4796 @@
+https://coddy.tech/journeys/javascript/fundamentals/comments
+
+app.codility.com/c/run/demoS62UQN-8DF/
+
+7803@2607@1987
+
+hdfc netbanking password
+=============================
+
+135578174
+VittuCnuAni@143
+
+https://freeapi.miniprojectideas.com/index.html
+
+neelimagaddam74
+
+monika.g@entosstech.com
+
+meru0810
+srin0810
+
+srin0810
+
+shwetajogdand@virtusa.com
+================================================================================================
+
+newSub = new Subject<number>();
+
+ngOnInit(){
+console.log('A');
+this.newSub.subscribe(value => {
+console.log('C', value);
+});
+this.newSub.next(1);
+console.log('B');
+setTimeout ( () => {
+console.log('E');
+ 
+this.newSub.next(2);
+this.newSub.subscribe(value => {
+console.log('F',value);
+ 
+});
+this.newSub.next(3);
+}, 0);
+console.log('D');
+}
+
+  // output:
+  
+    A
+	B
+	D
+	c ==> UNDEFINED
+	E
+	F => 2
+
+========================================================================================================
+
+How would you migrate AngularJS → Angular 15+? How do you use signals instead of NgRx in Angular 18? How would you handle multi-tenant API base URLs in an interceptor? How to design configurable environments (dev, QA, prod)? How to reduce bundle size using standalone components? I need answers for above questions
+
+what are the rxjs operators in angular
+diffrence between takeuntill and takeuntill changed
+changedetection strategy why used bregily explain
+viewencapsulation why used please explain brefly and diffrence them
+what is zoneless archtecture and what are the advantages and disadvantages
+what are the web sockets and web components
+diffrerence between angular.json and package.json and package.lock.json and without package.lock.josn file can able run the angular project
+diffrence between git merge and git rebase
+interview questions for git commands
+html and css interview questions and answers
+how to fix prod issues
+
+
+===============================================================================================================
+
+let x = [1,2,3,4,5]
+
+let y = x
+
+x.push(10)
+
+y.push(9)
+
+console.log(x)  [1,2,3,4,5,10,9]
+
+console.log(y) [1,2,3,4,5,10,9]
+
+
+dString("s1w2f3d1")
+dString("s12w2f3da1")
+ 
+ 
+let x="s1w2f3d1"
+ 
+ 
+swwfffd
+ 
+let x="s1w2f3da1"
+ 
+swwfffa
+ 
+let x="s12w2f3da1"
+ 
+swwfffa
+ 
+
+dString(val){
+.............
+}
+
+email, password 
+
+component.ts
+===============
+
+public fb: FormBuilder;
+
+regForm: formGroup;
+
+
+ngOnInIt() {
+	this.regForm = this.fb.group({
+		email: ['', [Validators.required, email.Validators]],
+		password: ['', Validators.required]
+	});
+}
+
+checkValidators(event) {
+	if(event.value) {
+	  let value  = event.value;
+	   str =  str.match(/[^[a-ZA_Z]/g]);
+	   return true;
+	} else {
+	   return false
+	}
+}
+
+SubmitForm() {
+	
+}
+
+===============================================================================================================
+
+file:///C:/Users/LENOVO/Downloads/700+%20JavaScript%20Coding%20Q's.pdf
+
+https://drive.google.com/file/d/1uVoZ8lkuJKaFhxs5q8KcGqKlZQ0a1nkl/view?ts=68b05c86
+
+
+
+https://drive.google.com/file/d/1GOeuaxco0ewZKzRAiCdlJC-JZqdTfQ_B/view
+
+
+
+https://drive.google.com/file/d/1GOeuaxco0ewZKzRAiCdlJC-JZqdTfQ_B/view
+
+https://drive.google.com/file/d/11HiGAYCTeyBha1NwFBiuhxpFkqBOdkMK/view
+
+https://chatgpt.com/c/68b1b69c-64e0-8322-9309-39e25b6c3faf
+
+https://www.youtube.com/watch?v=dqY9bmvRVzc&list=PL7JmcZV0UQtVrhYmyvLM-VMz-zaZQMHj0&index=4&ab_channel=LEARNINGPARTNER
+
+https://media.licdn.com/dms/image/v2/D5622AQGVbH_imGxKIQ/feedshare-shrink_800/B56Zjtf18pIAAg-/0/1756331205367?e=1759363200&v=beta&t=LPg4ejLPw4BgZfbdQFiww27pE_wRqZBu0blkdlR4v6Q
+
+
+
+https://media.licdn.com/dms/image/v2/D5622AQELEu5lyCp3CQ/feedshare-shrink_2048_1536/B56Zi4wc4JG4Aw-/0/1755446366897?e=1759363200&v=beta&t=c48KCZtWEe94zhH_0-702LMdLdB-suAXB2qxtEWWQd0
+
+
+
+https://media.licdn.com/dms/image/v2/D5622AQFjo9I_O-O5Rw/feedshare-shrink_2048_1536/B56Zi4xaPgHkAo-/0/1755446617822?e=1759363200&v=beta&t=vKc2iTkBOq5_IEmXvylO6O1IVSBug0M1LC03AkhK9S8
+
+
+
+https://media.licdn.com/dms/image/v2/D5622AQHwSmbp0HsEUw/feedshare-shrink_1280/B56Zi4xDSRHcAk-/0/1755446523896?e=1759363200&v=beta&t=r3m0hZkINy4S0WLdlm09mF84SwRS2roCDDvG9EuJK5M
+
+
+===============================================================================================================
+username: merugus
+Password: AnithaSrinivas@143
+===============================================================================================================
+
+<script>
+    // const str = "onetwoonetwoonetwooneonetwo";
+    // const wordCounts = [...str.matchAll(/.{3}/g)]
+    //     .map(match => match[0])
+    //     .reduce((acc, word) => {
+    //         acc[word] = (acc[word] || 0) + 1;
+    //         return acc;
+    //     }, {});
+
+    //     console.log(wordCounts);
+
+    const arr = [, , , ,];
+    console.log(arr);
+    console.log(arr.length);
+    console.log(arr.map(() => 42).length);
+    console.log(arr)
+
+
+
+</script>
+
+
+21. Write a javascript function that reverses the order of words
+in a sentence without using the built-in reverse() method.
+// Example usage
+reverseWords("ChatGPT is awesome");
+//"awesome is ChatGPT"
+
+23. Write a function which converts string input into an object
+// stringToObject("a.b.c", "someValue");
+// output -> {a: {b: {c: "someValue"}}}
+
+
+1) Angular Developer | 6.6 Years Experience in Angular (2–18), JavaScript, TypeScript, HTML, CSS, Bootstrap
+2) UI Developer | 6.6 Years in Angular, JavaScript, HTML/CSS, REST APIs | Currently at Genpact
+3) Experienced Frontend Developer | Angular, JavaScript, TypeScript | Strong UI/UX Skills | 6.6 Years
+4) Senior Angular Developer | Expertise in Angular 2+ to 18, RxJS, NgRx, and REST Integration
+5) 6.6 Years Exp | Angular Developer | Strong in SPA Development, Performance Optimization & UI Design
+
+8310 253 345
+
+https://dev.to/umerjaved178/polyfills-for-foreach-map-filter-reduce-in-javascript-1h13
+
+https://medium.com/@log2jeet24/javascript-different-types-of-promise-object-methods-to-handle-the-asynchronous-call-fc93d1506574
+
+https://tc39wiki.calculist.org/es6/arrow-functions/
+
+https://www.scaler.com/topics/pure-function-in-javascript/
+
+https://medium.com/@iamyashkhandelwal/5-output-based-interview-questions-in-javascript-b64a707f34d2
+
+https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife
+
+https://www.scaler.com/topics/javascript/prototype-inheritance-in-javascript/
+
+https://www.youtube.com/watch?v=Q75Ea6Geoqs&ab_channel=ReactJSDeveloperInterviewSeries
+
+https://teams.live.com/meet/9335935641192?p=EiuTd6nKRhxp7kuiY6
+
+
+5363032181326557
+
+05/32
+
+396
+
+✅ Angular Interview Questions (Angular 2 to 15+)
+🔸 Conceptual + Practical
+What are the differences between ngOnInit, ngAfterViewInit, and ngOnChanges?
+
+How do you implement lazy loading in Angular?
+
+How does Change Detection work? How do you improve performance with OnPush strategy?
+
+How do you create and use a custom directive? Give example.
+
+What are Observables, and how do you handle unsubscribe in components?
+
+What is the use of ng-template, ng-container, and ng-content?0(I need to prepare)
+
+How do you handle global error handling in Angular?
+
+Explain how to write Reactive Forms and how do they differ from Template-driven forms?
+
+How do you implement Route Guards (CanActivate, CanDeactivate)? (I need to prepare this)
+
+How do you share data between components (parent-child, sibling-sibling)? (check Once)
+
+✅ JavaScript Interview Questions
+🔸 Advanced & Code-Based
+What is hoisting? How does it work for var, let, and const?
+
+Explain closure with a practical example.
+
+What is event delegation and how do you implement it? (check this)
+
+How does this behave in different contexts (arrow function vs normal)?  (check this)
+
+Write a program to deep clone an object.
+
+What is currying in JavaScript? Provide an example.
+
+Explain how promises and async/await work behind the scenes.
+
+How to debounce and throttle a function?  (check this)
+
+Difference between map(), filter(), and reduce() with examples.
+
+How would you remove duplicate objects from an array?
+
+✅ TypeScript Interview Questions
+🔸 Core Concepts
+What are Interfaces vs Types? When to use each?
+
+How do you use Generics in TypeScript?
+
+What is type assertion in TypeScript?  (check this)
+
+How do you define and use enums?  (check this)
+
+How do you handle nullable types, strictNullChecks, and optional chaining (?.)?   (check this)
+
+What are access modifiers (private, protected, public)? 
+
+Explain decorators in Angular and how they are related to TypeScript.  (check this)
+
+What is a readonly property and how is it useful?  (check this)
+
+✅ HTML & CSS Interview Questions
+🔸 HTML
+What is the difference between <section>, <div>, <article>, and <main>?
+
+What are semantic tags, and why should we use them?
+
+How do you make a form accessible (ARIA attributes, labels)?
+
+🔸 CSS
+Difference between absolute, relative, fixed, and sticky positions.
+
+How to center a div vertically and horizontally?
+
+What is the difference between em, rem, px, and % units?
+
+What are media queries and how do you use them for responsiveness?
+
+How do you manage z-index and stacking context?
+
+✅ Bootstrap Questions
+What is the difference between Bootstrap 4 and 5?
+
+How do you make a responsive grid layout using Bootstrap grid system?
+
+How do you override Bootstrap styles with custom CSS?
+
+Explain how modals, tabs, or accordions work in Bootstrap.
+
+How can you customize Bootstrap using SASS variables?
+
+✅ Behavioral + Project-Based Questions
+Explain a complex module you developed in Angular.
+
+How did you handle performance optimization in your last project?  (check this)
+
+How do you manage version control (GIT) in a team environment?
+
+Have you worked with CI/CD, Jenkins, or any deployment pipeline?  (check this)
+
+How do you handle cross-browser issues or UI bugs?  (check this)
+
+If you're preparing for Cyient, focus more on:
+
+Real-world Angular problems (like optimization, lifecycle debugging)
+
+JavaScript logic-based problems
+
+UI debugging with Chrome DevTools
+
+Clean code & maintainable structure
+
+Component interaction and performance in Angular
+
+Would you like me to:
+
+📄 Create a PDF or DOC with these questions?
+
+💡 Provide answers with sample code for key topics?
+
+🎯 Tailor it for Cyient's specific job description if you have it?
+
+Let me know how deep you want to go.
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Dynamic Progress Colors</title>
+  <style>
+    progress {
+      width: 300px;
+      height: 25px;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+
+    /* Default background */
+    progress::-webkit-progress-bar {
+      background-color: #eee;
+      border-radius: 10px;
+    }
+
+    /* Dynamic progress color (we’ll override via JS) */
+    progress::-webkit-progress-value {
+      border-radius: 10px;
+    }
+
+    progress::-moz-progress-bar {
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <h2>Progress Bar with Color Steps</h2>
+  <div id="ProgressBar">
+    <progress id="myProgress" value="0" max="100"></progress>
+  </div>
+
+  <script>
+    let progressValue = 0;
+    const progress = document.getElementById('myProgress');
+
+    // Define 10 colors (for each 10% step)
+    const colors = [
+      "#f44336", // 0-10% red
+      "#e91e63", // 10-20%
+      "#9c27b0", // 20-30%
+      "#673ab7", // 30-40%
+      "#3f51b5", // 40-50%
+      "#2196f3", // 50-60%
+      "#03a9f4", // 60-70%
+      "#4caf50", // 70-80%
+      "#8bc34a", // 80-90%
+      "#ff9800"  // 90-100%
+    ];
+
+    // Store the interval ID
+    const intervalId = setInterval(() => {
+      progressValue += 10;
+      progress.value = progressValue;
+
+      // Pick color based on step
+      const colorIndex = Math.floor(progressValue / 10) - 1;
+      const color = colors[colorIndex] || "#4caf50";
+
+      // Apply color dynamically
+      progress.style.setProperty('--progress-color', color);
+
+      // Chrome/Safari
+      progress.style.setProperty('accent-color', color);
+
+      // Firefox (fallback)
+      const style = document.createElement('style');
+      style.textContent = `
+        progress[value]::-webkit-progress-value { background-color: ${color}; }
+        progress[value]::-moz-progress-bar { background-color: ${color}; }
+      `;
+      document.head.appendChild(style);
+
+      // Check if progress is complete
+      if (progressValue >= 100) {
+        progressValue = 100; // Ensure it doesn't exceed 100
+        progress.value = 100;
+
+        // Apply red color when complete
+        const completionColor = "#ff0000"; // Bright red
+        progress.style.setProperty('--progress-color', completionColor);
+        progress.style.setProperty('accent-color', completionColor);
+
+        // Firefox (fallback)
+        const style = document.createElement('style');
+        style.textContent = `
+          progress[value]::-webkit-progress-value { background-color: ${completionColor}; }
+          progress[value]::-moz-progress-bar { background-color: ${completionColor}; }
+        `;
+        document.head.appendChild(style);
+
+        console.log('Progress complete');
+        clearInterval(intervalId); // Stop the interval
+      }
+    }, 1000);
+
+    // Optional: Add a button to manually stop the progress
+    const stopButton = document.createElement('button');
+    stopButton.textContent = 'Stop Progress';
+    stopButton.style.marginTop = '20px';
+    stopButton.onclick = () => {
+      clearInterval(intervalId);
+      console.log('Progress stopped manually');
+    };
+    document.body.appendChild(stopButton);
+  </script>
+</body>
+
+</html>
+
+
+
+let x = [1, 2, 3];  
+
+let y = [1, 2, 3];
+
+let z = y;
+ 
+console.log(x == y);
+
+console.log(x === y);
+
+console.log(z == y);
+
+console.log(z == x);
+ 
+const arr = [1, 2, 3, 4, 5];  
+for (var i = 0; i < arr.length; i++) {
+
+setTimeout(function () {
+console.log(i);
+
+}, 1000);
+
+}
+ 
+const companies = [ 
+
+		  { id: "1", name: "Facebook" },
+
+		  { id: "2", name: "Apple" },
+
+		  { id: "3", name: "Google" },
+
+		];
+ 
+		companies.sort((a, b) => (a.name > b.name ? -1 : 1));
+
+		console.log(companies);
+ 
+console.log(typeof(undefined))
+
+console.log(typeof(null))
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <p id="result"></p> <br><br>
+  <p id="list"></p>
+  <script>
+    // let width = 200;
+    // increaseWidth = () => {
+    //   const div1 = document.getElementById("div1");
+    //   width += 10;
+    //   console.log(width);
+    //   contentDiv1.style.width = width + "px";
+    // };
+
+    // decreaseWidth = () => {
+    //   const div2 = document.getElementById("div2");
+    //   width = width - 10;
+    //   console.log(width);
+    //   contentDiv1.style.width = width + "px";
+    // };
+
+    var arr = [
+      { id: 1, name: "Angular" },
+      { id: 2, name: "React" },
+      { id: 3, name: "Vue" },
+      { id: 4, name: "Svelte" }
+    ];
+    list = [];
+    const container = document.getElementById('result');
+    container.innerHTML = arr.map((item, index) => {
+      return `
+     <input type="checkbox" id="${item.id}" onClick="getAppendSpantagsList(${item.id})" name="${item.id}">${item.name}<br>
+     `
+    }).join('');
+
+    window.getAppendSpantagsList = function (id) {
+      const checkbox = document.getElementById(id);
+      console.log(checkbox.checked);
+      if (checkbox.checked) {
+        list.push(arr.find(item => item.id === id));
+        const ListData = document.getElementById('list');
+        ListData.innerHTML = list.map((item) => {
+          return `
+        <span>${item.name}</span>
+        <button onClick="removeItem(${item.id})">x</button><br><br>
+        `;
+        }).join('');
+      } else {
+        list = [];
+        const ListData = document.getElementById('list');
+        ListData.innerHTML = list?.map((item) => {
+          return ``;
+        }).join('');
+      }
+
+    };
+
+    window.removeItem = function (id) {
+      list = list.filter(item => item.id !== id);
+      const checkbox = document.getElementById(id);
+      if (checkbox) {
+        checkbox.checked = false; // Uncheck the checkbox
+      }
+      const ListData = document.getElementById('list');
+      ListData.innerHTML = list.map((item) => {
+        return `
+        <span>${item.name}</span>
+        <button onClick="removeItem(${item.id})">x</button><br><br>
+        `;
+      }).join('');
+    };
+  </script>
+</body>
+
+</html>
+
+
+
+
+<script>
+data = [
+  { name: 'audi', id: 1, checked: false },
+  { name: 'bmw', id: 2, checked: false },
+  { name: 'ferrai', id: 3, checked: false },
+  { name: 'lexus', id: 4, checked: false }
+];
+
+selectedNames = [];
+
+function  onCheckboxChange(item) {
+  item.checked = !item.checked;
+  if (item.checked) {
+    this.selectedNames.push(item.name);
+  } else {
+    this.selectedNames = this.selectedNames.filter(name => name !== item.name);
+  }
+}
+
+function removeName(name) {
+  this.selectedNames = this.selectedNames.filter(n => n !== name);
+  const found = this.data.find(item => item.name === name);
+  if (found) {
+    found.checked = false;
+  }
+}
+</script>
+
+<div *ngFor="let item of data">
+  <label>
+    <input type="checkbox" [checked]="item.checked" (change)="onCheckboxChange(item)" />
+    item.name
+  </label>
+</div>
+
+<span *ngFor="let name of selectedNames">
+  name
+  <button (click)="removeName(name)">Delete</button>
+</span>
+
+
+<!DOCTYPE html>
+<html>
+
+<body>
+  <!-- <p id="result"></p> <br><br>
+  <p id="list"></p> -->
+  <div id="ProgressBar"></div>
+  <style>
+    #ProgressBar {
+      color: green !important;
+    }
+  </style>
+  <script>
+    // var arr = [
+    //   { id: 1, name: "Angular" },
+    //   { id: 2, name: "React" },
+    //   { id: 3, name: "Vue" },
+    //   { id: 4, name: "Svelte" }
+    // ];
+    // list = [];
+    // const container = document.getElementById('result');
+    // container.innerHTML = arr.map((item, index) => {
+    //   return `
+    //  <input type="checkbox" id="${item.id}" onClick="getAppendSpantagsList(${item.id})" name="${item.id}">${item.name}<br>
+    //  `
+    // }).join('');
+
+    // window.getAppendSpantagsList = function (id) {
+    //   const checkbox = document.getElementById(id);
+    //   console.log(checkbox.checked);
+    //   if (checkbox.checked) {
+    //     list.push(arr.find(item => item.id === id));
+    //     const ListData = document.getElementById('list');
+    //     ListData.innerHTML = list.map((item) => {
+    //       return `
+    //     <span>${item.name}</span>
+    //     <button onClick="removeItem(${item.id})">x</button><br><br>
+    //     `;
+    //     }).join('');
+    //   } else {
+    //     list = [];
+    //     const ListData = document.getElementById('list');
+    //     ListData.innerHTML = list?.map((item) => {
+    //       return ``;
+    //     }).join('');
+    //   }
+
+    // };
+
+    // window.removeItem = function (id) {
+    //   list = list.filter(item => item.id !== id);
+    //   const checkbox = document.getElementById(id);
+    //   if (checkbox) {
+    //     checkbox.checked = false; // Uncheck the checkbox
+    //   }
+    //   const ListData = document.getElementById('list');
+    //   ListData.innerHTML = list.map((item) => {
+    //     return `
+    //     <span>${item.name}</span>
+    //     <button onClick="removeItem(${item.id})">x</button><br><br>
+    //     `;
+    //   }).join('');
+    // };
+
+
+    let progressValue = 0
+    setInterval(() => {
+      const ProgressBar = document.getElementById('ProgressBar');
+      progressValue += 10;
+      if (progressValue  < 100) {
+        const colors = [
+          "#f44336", // 0-10% red
+          "#e91e63", // 10-20%
+          "#9c27b0", // 20-30%
+          "#673ab7", // 30-40%
+          "#3f51b5", // 40-50%
+          "#2196f3", // 50-60%
+          "#03a9f4", // 60-70%
+          "#4caf50", // 70-80%
+          "#8bc34a", // 80-90%
+          "#ff9800"  // 90-100%
+        ];
+        const color = colors[Math.floor(Math.random() * colors.length)];
+        ProgressBar.innerHTML = `<progress value="100" max="100" style="accent  color: ${color};"></progress>`;
+      } else if (progressValue === 100) {
+        const myColor = '#FF0000';
+        ProgressBar.innerHTML = `<progress value="100" max="100" style="accent  color: ${myColor};"></progress>`;
+      }
+    }, 1000);
+
+  </script>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dynamic Progress Colors</title>
+  <style>
+    progress {
+      width: 300px;
+      height: 25px;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+
+    /* Default background */
+    progress::-webkit-progress-bar {
+      background-color: #eee;
+      border-radius: 10px;
+    }
+
+    /* Dynamic progress color (we’ll override via JS) */
+    progress::-webkit-progress-value {
+      border-radius: 10px;
+    }
+    progress::-moz-progress-bar {
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Progress Bar with Color Steps</h2>
+  <div id="ProgressBar">
+    <progress id="myProgress" value="0" max="100"></progress>
+  </div>
+
+  <script>
+    let progressValue = 0;
+    const progress = document.getElementById('myProgress');
+
+    // Define 10 colors (for each 10% step)
+    const colors = [
+      "#f44336", // 0-10% red
+      "#e91e63", // 10-20%
+      "#9c27b0", // 20-30%
+      "#673ab7", // 30-40%
+      "#3f51b5", // 40-50%
+      "#2196f3", // 50-60%
+      "#03a9f4", // 60-70%
+      "#4caf50", // 70-80%
+      "#8bc34a", // 80-90%
+      "#ff9800"  // 90-100%
+    ];
+
+    setInterval(() => {
+      if (progressValue < 100) {
+        progressValue += 10;
+        progress.value = progressValue;
+
+        // Pick color based on step
+        const colorIndex = Math.floor(progressValue / 10) - 1;
+        const color = colors[colorIndex] || "#4caf50";
+
+        // Apply color dynamically
+        progress.style.setProperty('--progress-color', color);
+
+        // Chrome/Safari
+        progress.style.setProperty('accent-color', color);
+
+        // Firefox (fallback)
+        const style = document.createElement('style');
+        style.textContent = `
+          progress[value]::-webkit-progress-value { background-color: ${color}; }
+          progress[value]::-moz-progress-bar { background-color: ${color}; }
+        `;
+        document.head.appendChild(style);
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+<style>
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  .checkbox-list {
+    margin-bottom: 20px;
+  }
+
+  .checkbox-item {
+    margin: 10px 0;
+  }
+
+  .selected-list {
+    margin-top: 20px;
+  }
+
+  .selected-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 8px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+
+  .selected-item span {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+
+  .remove-btn {
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .remove-btn:hover {
+    background-color: #cc0000;
+  }
+</style>
+</head>
+
+<body>
+  <div class="container">
+    <div id="result" class="checkbox-list"></div>
+    <div id="list" class="selected-list"></div>
+  </div>
+
+  <script>
+    // Data
+    const frameworks = [
+      { id: 1, name: "Angular" },
+      { id: 2, name: "React" },
+      { id: 3, name: "Vue" },
+      { id: 4, name: "Svelte" }
+    ];
+
+    let selectedItems = [];
+
+    // Render Functions
+    function renderCheckboxList() {
+      const container = document.getElementById('result');
+      container.innerHTML = frameworks.map(item => `
+            <div class="checkbox-item">
+                <input type="checkbox" 
+                    id="${item.id}" 
+                    name="${item.id}"
+                    ${selectedItems.some(selected => selected.id === item.id) ? 'checked' : ''}
+                    onChange="handleCheckboxChange(${item.id})"
+                >
+                <label for="${item.id}">${item.name}</label>
+            </div>
+        `).join('');
+    }
+
+    function renderSelectedList() {
+      const listContainer = document.getElementById('list');
+      listContainer.innerHTML = selectedItems.map(item => `
+            <div class="selected-item">
+                <span>${item.name}</span>
+                <button class="remove-btn" onClick="removeItem(${item.id})">×</button>
+            </div>
+        `).join('');
+    }
+
+    // Event Handlers
+    function handleCheckboxChange(id) {
+      const checkbox = document.getElementById(id);
+      if (checkbox.checked) {
+        const itemToAdd = frameworks.find(item => item.id === id);
+        selectedItems.push(itemToAdd);
+      } else {
+        selectedItems = selectedItems.filter(item => item.id !== id);
+      }
+      renderSelectedList();
+    }
+
+    function removeItem(id) {
+      selectedItems = selectedItems.filter(item => item.id !== id);
+      const checkbox = document.getElementById(id);
+      if (checkbox) {
+        checkbox.checked = false;
+      }
+      renderSelectedList();
+    }
+
+    // Initial render
+    renderCheckboxList();
+  </script>
+  </script>
+</body>
+
+</html>
+
+
+Good morning, I’m Merugu Srinivas. I have 6.6 years of experience as an Angular developer, working across versions 2 to 18 along with RxJS, NgRx, JavaScript, HTML5, CSS, and Bootstrap.
+
+I’ve worked with companies like Capgemini and currently Genpact, delivering projects in domains such as insurance, healthcare, and community services. My work includes creating reusable components, implementing lazy loading for performance, and integrating with secure APIs using Node.js, Express.js, and MySQL or MongoDB.
+
+In my current role, I collaborate with cross-functional teams in an Agile setup, focus on delivering high-quality, scalable applications, and often handle complex form validations, state management, and API integrations.
+
+I’m excited about this opportunity at TATA Technologies because of the innovative projects and collaborative culture, and I’m confident my technical expertise and problem-solving approach can add value to your team.
+
+
+
+
+
+
+<script>
+//   const employees = [
+//     { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+//     { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+//     { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+//     { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+//     { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+//     { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+//     { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+//     { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+//   ];
+
+//   // Remove duplicates based on 'id' property
+//  var res = [];
+//  employees.forEach((item) => {
+//      if(!res.some(e => e.id === item.id)) {
+//        res.push(item);
+//      }
+//  });
+//  console.log(res);
+
+
+// // find the longest word in a string
+// var name = "I am from Angular and I am learning JavaScript";
+// var res = name.split(" ");
+// var finalResp = res[0];
+// for (let i = 0; i < res.length; i++) {
+//    if(res[i].length > finalResp.length) {
+//       finalResp = res[i];
+//    }
+// }
+// console.log(finalResp); // Output: "JavaScript"
+
+//  var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+//  var res = arr.reduce((acc, current) => {
+//     return acc + current
+//  }, 0);
+//  console.log(res); // Output: 55
+
+
+// end with 7 or 5
+var arr = [45,87,97,5,6,7,9,55,45,95];
+var res = [];
+for (let i = 0; i < arr.length; i++) {
+  if(arr[i] % 10 === 7) {
+    res.push(arr[i]);
+  } else if (arr[i] % 10 === 5) {
+     res.push(arr[i]);
+  }
+}
+console.log(res); // Output: [87, 97, 7]
+</script>
+
+<script>
+  // Array.prototype.push = function (item) {
+  //   console.log('Item pushed:', item);
+  //   return this.length;
+  // }
+
+  // const arr = [1, 2]
+  // arr.push(3);
+  // console.log('Array after push:', arr);
+  // console.log('Array length:', arr.length)
+
+
+  // const originalPush = Array.prototype.push;
+
+  // Array.prototype.push = function (...args) {
+  //   console.log("Custom push:", args);
+  //   return originalPush.apply(this, args); // Use real push
+  // };
+
+  // const a = [10];
+  // a.push(20);
+  // console.log(a); // ✅ [10, 20]
+
+
+
+  // If you override Array.prototype.push, you change how all arrays in your app behave. It might break your own code or third-party libraries that rely on the original push method. These bugs can be hard to notice and debug, so it’s generally a bad practice unless you really know what you're doing and limit the scope.
+
+  // I use Angular DevTools and Chrome DevTools to analyze performance bottlenecks. Based on what I find—whether it’s too many change detection cycles, large DOM updates, or memory leaks—I apply best practices like OnPush strategy, lazy loading, virtual scrolling, and RxJS operators like debounce. My goal is always to reduce unnecessary computations and improve perceived performance for the user.
+
+  const numbers = [1, 2, 3, 4];
+  const sum = numbers.reduce((acc, val) => acc + val, 0);
+  console.log(sum); // 10
+bhushan sarode
+kiran Nawale
+
+</script>
+
+
+function findTopFour(arr) {
+  let first = -Infinity;
+  let second = -Infinity;
+ 
+
+  for (let i = 0; i < arr.length; i++) {
+    let num = arr[i];
+
+    // Skip duplicates
+    if (num === first || num === second ) {
+      continue;
+    }
+
+    if (num > first) {
+      second = first;
+      first = num;
+    } else if (num > second) {
+      second = num;
+    }  
+  }
+
+  return {
+    first: first !== -Infinity ? first : null,
+    second: second !== -Infinity ? second : null,
+ 
+  };
+}
+
+console.log(findTopFour([9, 4, 1, 7, 3, 9]));
+
+
+<script>
+    const employees = [
+        { name: "Amit", age: 29, salary: 50000, department: "Engineering" },
+        { name: "Neha", age: 32, salary: 47000, department: "Marketing" },
+        { name: "Ravi", age: 35, salary: 52000, department: "Sales" },
+        { name: "Kavita", age: 28, salary: 43000, department: "Design" },
+        { name: "Manish", age: 49, salary: 55000, department: "Finance" },
+        { name: "Sneha", age: 30, salary: 46000, department: "HR" },
+        { name: "Arun", age: 27, salary: 48000, department: "Support" },
+        { name: "Divya", age: 34, salary: 51000, department: "Engineering" }
+    ];
+
+    // let maxSalary = employees[0];
+
+    // for (let i = 0; i < employees.length; i++) {
+    //         if (employees[i].salary > maxSalary.salary ) {
+    //             maxSalary = employees[i];
+    //         }
+    // }
+    // console.log(maxSalary)
+
+    // let age = 0;
+
+    // const sumOfAge = employees
+    // .map(empAge => empAge.age)
+    // .filter(findAge => findAge.age !==0)
+    // .reduce((sum, Age) => sum + Age, 0);
+    // console.log(sumOfAge)
+
+    const findLenthOfages = employees.map(x => x.name.length);
+    console.log(findLenthOfages);
+
+    let a = 13;
+    let b = 8
+
+    a = a + b;
+    b = a - b;
+    a = a - b
+    console.log(a, b)
+v cx ynn bg  ,f
+    // const data = employees.filter((x) => {
+    //     return x.age % 2 !== 0;
+    // });
+    // sumAge = 0;
+    // data.forEach((Obj) => {
+    //     sumAge += Obj.age;
+    // });
+    // console.log(sumAge, 'sumAge')
+
+    // console.log(data)
+
+    // newEmp= [];
+    //  employees.forEach(x =>  {
+    //     newEmp.push(x.name.length)
+    //  });
+
+    //  console.log(newEmp)
+
+    let  maxSalary = employees[0];
+
+    for (let i = 0; i < employees.length; i++) {
+        if (employees[i].salary > maxSalary.salary) {
+            maxSalary = employees[i];
+        }
+    }
+    console.log(maxSalary)
+     
+</script>
+
+
+
+
+const shoes= [
+{ name: "Shoe 1", price: 100 },
+{ name: "shoe 2", price: 200 },
+{ name: "shoe 3", price: 300 }
+];
+
+function findAvg(arr) {
+  arr.map((x) => {
+     return x.reduce((y) => return x.prrice + y.price)
+  })
+  return arr[0]/3;
+}
+
+const newShosws = findAvg(shoes)
+
+
+function Counter() {
+
+  this.count = 0;
+
+  setInterval(function () {
+
+    this.count++;
+
+    console.log(this.count);
+
+  }, 1000);
+
+}
+ 
+new Counter();; what will be printed?
+
+function test() {
+    let name ="srinivas";
+    let age = 30;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TIMindtree
+Share
+Show more options
+Frontend Developer-Angular 
+Chennai, Tamil Nadu, India  19 hours ago  Over 100 applicants
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Easy Apply
+
+Save
+Save Frontend Developer-Angular  at LTIMindtree
+Frontend Developer-Angular
+LTIMindtree  Chennai, Tamil Nadu, India (On-site)
+
+Easy Apply
+
+Save
+Save Frontend Developer-Angular  at LTIMindtree
+Show more options
+Your profile matches some required qualifications
+
+Show match details
+
+BETA
+
+Is this information helpful?
+
+
+
+Get personalized tips to stand out to hirers
+
+
+
+
+
+
+Mallavaram Satish and others in your network
+
+Show all
+Meet the hiring team
+Rohith Kumar
+Rohith Kumar  
+ 2nd
+Talent Acquisition
+
+
+Message
+About the job
+Frontend Developer-Angular
+
+ Experience:5+ Years
+ Location: Chennai
+ Mode of work:5 Days work from office 
+
+ Mandatory Skills: HTML 5, CSS 3, Java Script, JQUERY, Angular 13+
+
+
+
+Responsibilities
+Develop and maintain responsive web applications using HTML5, CSS3, and JavaScript.
+Implement dynamic features and interactivity using jQuery.
+Design and create advanced front-end solutions using Angular 13+.
+Collaborate with backend developers and UI/UX designers to ensure seamless integration and user experience.
+Optimize applications for maximum speed and scalability.
+Ensure cross-browser compatibility and address technical challenges.
+Follow best practices in coding, testing, and documentation.
+Requirements
+Proficiency in HTML5, CSS3, JavaScript, jQuery, and Angular 13+.
+Minimum 5 years of experience in front-end development.
+Strong understanding of web development principles and modern frameworks.
+Excellent problem-solving skills and attention to detail.
+Ability to work both independently and collaboratively in a fast-paced environment.
+Availability to join within a 30-60 days’ notice period.
+
+Job search faster with Premium
+
+<script>
+    // var res = [];
+    // function checkArray(arr) {
+    //   for(let i = 0; i<=arr.length-1;i++) {
+    //     if (Array.isArray(arr[i])) {
+    //         checkArray(arr[i]);
+    //     } else {
+    //         res.push(arr[i]);
+    //     }
+    //   }
+    // }
+    // checkArray([1,2,[3,4,[5,6]], 7,[8,9]]);
+    // console.log(res);
+
+
+    const proto = {
+        greet: function () {
+            console.log(`Hello from ${this.name}`);
+        }
+    };
+
+    const person = Object.create(proto);
+    person.name = 'Bob';
+    console.log(proto.greet()); // Hello from Bob
+
+    let arr = [9, 4, 1, 7, 3];
+
+for (let i = 0; i < arr.length; i++) {
+  for (let j = 0; j < arr.length - 1; j++) {
+    if (arr[j] > arr[j + 1]) {
+      // Swap
+      let temp = arr[j];
+      arr[j] = arr[j + 1];
+      arr[j + 1] = temp;
+    }
+  }
+}
+
+console.log(arr); // Output: [1, 3, 4, 7, 9]
+
+
+let arr = [9, 4, 1, 7, 3];
+
+for (let i = 0; i < arr.length; i++) {
+  for (let j = 0; j < arr.length - 1; j++) {
+    if (arr[j] < arr[j + 1]) {
+      // Swap
+      let temp = arr[j];
+      arr[j] = arr[j + 1];
+      arr[j + 1] = temp;
+    }
+  }
+}
+
+console.log(arr); // Output: [9, 7, 4, 3, 1]
+
+
+</script>
+
+pending Question:-
+==================
+1) How does the JavaScript event loop work? What is the role of the callback queue and microtask queue?
+2) Can you describe a time when you learned something new to solve a problem?
+3) How do you stay updated with Angular and JavaScript advancements
+4) What do you do when you don’t know the answer to a technical question during development
+5) How do you mentor or support junior developers in your team
+6) What’s your approach to learning from code reviews
+7) differ loading strategies in Angular
+
+still Not Yet Completed
+============================
+1) What happens if you override Array.prototype.push globally and how could it backfire in subtle ways?
+2) how to use globally data by using signals
+3)
+
+=======================================================================================================================================
+
+
+
+let & const hoisting:
+Hoisted: allocation of memory before it's initialization.
+
+❓Do let and const variables get hoisted?
+
+Ans: Yes, they are hoisted, but they are in Temporal Dead Zone.
+
+Temporal Dead Zone (TDZ):
+T.D.Z is a time between when a let variable was hoisted and until it is initialized with some value.
+
+(Allocated memory in different space without getting attached to the Global object)
+Note:
+In JS, variables declared using var keyword are ⬅️ get attached to the Global object (window in browsers or this in global scope).
+
+🔹 Are let and const hoisted?
+Yes, both let and const are hoisted —
+BUT unlike var, they are placed in a special state called the Temporal Dead Zone (TDZ).
+
+🔸 What is Hoisting?
+Hoisting refers to JavaScript's behavior of moving variable and function declarations to the top of their containing scope during compilation.
+
+
+<script>
+    // console.log("A");
+    // let promise = new Promise((resolve) => {
+    //     resolve("");
+    // });
+    // console.log("B");
+    // let promise1 = new Promise((resolve) => {
+    //     setTimeout(() => {
+    //         console.log("C");
+    //         resolve("test");
+    //     }, 1000);
+    // });
+    // console.log("D");
+    // console.log("1" + 2 - 0);
+
+    // console.log(+"hello");
+
+
+    // const myArr = [1, 2, 3]; 
+    // const newArr = myArr.flatMap(x => [0, x * 5]);
+    // console.log(newArr);
+
+    // function greet(name = "Guest") {
+    // return `Hello, ${name}`;
+    // }
+
+    // console.log(greet(undefined));
+
+    // const user = {
+    //     val: 0,
+    //     increment: () =>  {
+    //         // setTimeout(() => {
+    //             this.val++;
+    //             console.log(this.val);
+    //         // }, 1000);
+    //     }
+    // }
+
+    // user.increment();
+    // user.increment();
+
+    // const obj = {
+    //     value: 20,
+    //     getValue:  () => {
+    //         setInterval(() => {
+    //             return ++this.value;
+    //         }, 1000);
+    //     }
+    // };
+    // console.log(obj.getValue())
+
+    // var arr = [2, 3, 10] // I need missing the numbers in the array
+    // var maxCountNumber = arr[arr.length - 1];
+    // var missingNumbers = [];
+
+    // for (let i = 1; i < maxCountNumber; i++) {
+    //     if (!arr.includes(i)) {
+    //         missingNumbers.push(i);
+    //     }
+    // }
+
+    // console.log(missingNumbers)
+
+    // var arr = [1, 2, 3, 1];
+    // var duplicate = [];
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     if (!duplicate.includes(arr[i]) && arr.indexOf(arr[i]) !== i) {
+    //         duplicate.push(arr[i]); //only duplicate numbers
+    //     }
+    // }
+    // console.log(duplicate, 'uniqueNums');
+
+    // var a = b = 10;
+    // console.log("a value", a);
+    // console.log("b value", b);
+
+
+    // var a = 10;
+    // console.log(a);        // Output 1  10
+    // function fn() {
+    //     console.log(a);    // Output 2 undefined
+    //     var a = 20;
+    //     a++;
+    //     console.log(a);    // Output 3  21
+    //     if (a) {
+    //         var a = 30;
+    //         a++;
+    //         console.log(a); // Output 4 31
+    //     }
+    //     console.log(a);    // Output 5 31
+    // }
+    // fn();
+    // console.log(a);        // Output 6 10
+
+
+    // function getCarPrice(model) {
+    //     model = model.toLowerCase();
+    //     // if (model === 'swift') {
+    //     //     return 600000;
+    //     // } else if (model === 'creta') {
+    //     //     return 1000000;
+    //     // } else if (model === 'fortuner') {
+    //     //     return 4000000;
+    //     // } else if (model === 'xuv700') {
+    //     //     return 2200000;
+    //     // } else if (model === 'tiago') {
+    //     //     return 550000;
+    //     // } else {
+    //     //     return 'Model not found';
+    //     // }
+
+
+    //     // belwo the process very less code
+
+    //      const user = {
+    //         'swift': 600000,
+    //         'creta': 1000000,
+    //         'fortuner': 4000000,
+    //         'xuv700': 2200000,
+    //         'tiago': 550000,
+    //     }
+    //     console.log(user[model])
+
+    // }
+
+    // getCarPrice('fortuner');
+
+    // var arr = [12,67,7,77,97,85] // I need output end with 5 nummber I need 
+
+    // const ramChildrenScores = [
+    //     { name: "Aman", score: 92 },
+    //     { name: "Neha", score: 88 },
+    //     { name: "Ravi", score: 79 },
+    //     { name: "Tina", score: 95 }
+    // ];
+
+    // let highestNumber = 0;
+    // let secondHiegstNumber = 0;
+
+    // for (let i = 0; i < ramChildrenScores.length; i++) {
+    //     let score = ramChildrenScores[i];
+
+    //     if (score > secondHiegstNumber) {
+    //         secondHiegstNumber = score
+    //     }
+    // }
+
+    // console.log(secondHiegstNumber)
+
+
+
+    // const arr = [5, 12, 8, 20, 19];
+
+    // let highest = -Infinity;
+    // let secondHighest = -Infinity;
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     let num = arr[i];
+
+    //     if (num > highest) {
+    //         secondHighest = highest;
+    //         highest = num;
+    //     } else if (num > secondHighest && num < highest) {
+    //         secondHighest = num;
+    //     }
+    // }
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     let num = arr[i];
+
+    //     if (num > highest) {
+    //         secondHighest = highest
+    //         highest = num;
+    //     } else if (num > secondHighest && num < highest) {
+    //         secondHighest = num;
+    //     }
+    // }
+
+    // console.log("2nd highest number:", secondHighest);
+
+    // const users = {
+    //     frontendmaster: {},
+    //     rahul: {}
+    // }
+
+    // let name = 'constructor';
+
+    // if (users[name]) {
+    //     console.log('BOSS');
+    // } else {
+    //     console.log("else")
+    //     // some other logic
+    // }
+
+    // what is the output why
+
+    // var arr = [1, 3, 4, 8, 7, 9, 3, 5, 1]
+    // var k = 2;  // I need find the diffrence between 2 numbers equal to 2 how can i
+    // var res = [];
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     for (let j = 1; j < arr.length; j++) {
+    //         if (arr[i] - arr[j] === k) {
+    //             res.push([arr[i], arr[j]]);
+    //         }
+    //     }
+    // }
+    // console.log(res)
+
+    // function lengthOfLongestSubstring(s) {
+    //     let maxLength = 0;
+    //     let start = 0;
+    //     let seen = {};
+
+    //     for (let i = 0; i < s.length; i++) {
+    //         let char = s[i];
+
+    //         if (seen[char] >= start) {
+    //             start = seen[char] + 1;
+    //         }
+
+    //         seen[char] = i;
+    //         maxLength = Math.max(maxLength, i - start + 1);
+    //     }
+
+    //     return maxLength;
+    // }
+
+    // // Test
+    // console.log(lengthOfLongestSubstring("abcabcbb")); // Output: 3 ("abc")
+    // console.log(lengthOfLongestSubstring("bbbbb"));    // Output: 1 ("b")
+    // console.log(lengthOfLongestSubstring("pwwkew"));   // Output: 3 ("wke")
+
+    // function test() {
+    //     return { message: "hello" }
+    // }
+
+    // console.log(test())
+
+    // let x = [1, 2, 3];
+    // let y = [1, 2, 3];
+    // let z = y;
+
+    // console.log(x == y);
+    // console.log(x === y);
+    // console.log(z == y);
+    // console.log(z == x);
+
+    // const arr = [1, 2, 3];
+    // const [a, b, c] = arr;
+
+    // console.log(a);
+    // console.log(b);
+    // console.log(c);
+
+
+
+    const employees = [
+        { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+        { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+        { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+        { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+        { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+    ]
+
+
+    // const groups = {};
+
+    // for (const obj of employees) {
+    //     if (!obj.active) continue;
+    //     const key = obj.department;
+    //     const {active, ...rest} = obj
+    //     if (!groups[key]) {
+    //         groups[key] = [];
+    //     }
+    //     groups[key].push(rest)
+    // }
+
+    // console.log(groups, 'groups')
+
+    // Registered Mobile No:
+    // XXXXXXXXXXXXX3133
+    // PAN: DXPXXXXX3F
+    // Email ID: seXXXXXXXXXX65@gmail.com;
+    // KYC Status: Updated
+    // CKYC No: XXXXXXXXXX8306
+
+
+    const userKYCDetails = {
+        registeredMobileNo: "7993040014",
+        pan: "DXPAAAAAAA3F",
+        emailId: "seenu.merugu5@gmail.com",
+        kycStatus: "Updated",
+        ckycNo: "12345678988306" // 14
+    };
+
+    function mapped(key) {
+        if (key === 'registeredMobileNo') {
+            let mappedMobileNumber = userKYCDetails[key].slice(-4);
+            repeatChar = 'X'.repeat(userKYCDetails[key].length - 4) + mappedMobileNumber;
+        } else if (key === 'pan') {
+            let maskedLength = userKYCDetails[key].length - (2 + 2);
+            str.slice(0, startVisible) +
+                '*'.repeat(maskedLength) +
+                str.slice(-endVisible)
+
+            // let panFirstNumber = userKYCDetails[key].slice(0, 2);
+            // let panLastNumber = userKYCDetails[key].slice(-2);
+            // repeatChar = 'X'.repeat(userKYCDetails[key].length - 4);
+            // console.log(repeatChar, 'df')
+
+            // if (maskedLength <= 0) return str;
+            // return (
+            //     str.slice(0, startVisible) +
+            //     '*'.repeat(maskedLength) +
+            //     str.slice(-endVisible)
+            // );
+
+        }
+        //  console.log(userKYCDetails[key])
+    }
+    mapped('pan');
+
+</script>
+
+
+Angular Interview Questions:--
+==============================
+1) component lifecycle
+2) viewchild and viewchildren and subject and behaviour subject with example
+3) contentchild and contentchildren
+4) content projection
+5) rxjs obbservables and Observer 
+6) angular pipes
+7) change detection strategy like on push
+8) parent and child communication code I need see
+9) custome directive example real time
+10) what singleton service and Lazyloading concepts I need to in my project
+11) debounce and user searches the api call example code
+12) RxJs Operators, ng-template, 
+strateg
+
+
+searchControl ==> value
+
+this.searchControl.valueChanges.pipe(
+    debounceTime(500),
+    distinctUnitlChanged(),  if value previ
+    switchMap((term) =>  this.service.getData(term))
+).subscribe((res: any) => {
+    this. 
+})
+
+<script>
+    // var nums = 'aaabbcc'.split('');
+    // var count = {}
+
+    // for (const element of nums) {
+    //   if (count[element]) {
+    //     count[element] = count[element] + 1
+    //   } else {
+    //      count[element] = 1;
+    //   }
+    // }
+
+    // console.log(count)
+
+
+    let promise = new Promise((resolve) => {
+
+        console.log("A");
+
+        resolve("");
+
+    });
+
+    console.log("B");
+
+    let promise1 = new Promise((resolve) => {
+
+        setTimeout(() => {
+
+            console.log("C");
+
+            resolve("");
+
+        }, 1000);
+
+    });
+
+
+    console.log("D")
+</script>
+
+
+	abhishekkumar.pyase@infosys.com
+
+
+
+
+
+
+👉 CHALLENGE OF THE DAY 👈
+ What will be the result of the following code?
+
+
+=====================
+
+💭 What’s Happening Here?
+1. When are default parameters applied?
+2. Is undefined treated the same as null?
+3. What will be logged in the console?
+
+🗣️ Drop your answer with a short explanation to flex your JS muscles!
+🔥 Best answers will be featured in our next post!
+👑 Real JavaScript devs know the difference between undefined and null — do you?
+
+
+=============================================================
+
+const person = {
+  name: 'John',
+  age: 30,
+  greet: function () {
+    console.log(`Hello, my name is ${this.name}`);
+  }
+};
+0
+
+
+Top 50 Angular Interview Questions You Must Know!
+
+1. What is the main purpose of Angular?
+
+2. What are directives in Angular and how many types of directives exist?
+
+3. Explain data bindings and the different types.
+
+4. What are the basic components involved in Angular?
+
+5. What’s the difference between AngularJS and Angular?
+
+6. What are components and modules in Angular?
+
+7. What are decorators in Angular?
+
+8. What is metadata or annotations in Angular?
+
+9. What are templates in Angular?
+
+10. What is SPA and how do you implement it in Angular?
+
+11. Explain the importance of routing in Angular & how to implement it.
+
+12. What is lazy loading in Angular?
+
+13. How do you implement lazy loading in Angular?
+
+14. What is Node.js?
+
+15. What is NPM?
+
+16. Why is the node_modules folder important?
+
+17. What is package.json?
+
+18. What is TypeScript?
+
+19. What is the need for Angular CLI?
+
+20. What are services in Angular?
+
+21. When would you use content projection?
+
+22. Explain content projection slots in Angular.
+
+23. Why do we need ViewChild and ViewChildren in Angular?
+
+24. What is a template reference variable?
+
+25. Explain ContentChild and ContentChildren.
+
+26. Differentiate between ViewChild, ViewChildren, ContentChild, and ContentChildren.
+
+27. What is { static: true } in ViewChild?
+
+28. What is the importance of Angular component hooks/life cycles?
+
+29. Explain Angular life cycle hooks in detail.
+
+30. Differentiate between constructor and ngOnInit().
+
+31. How do you implement lazy loading in Angular?
+
+32. How do you implement HTTP in Angular?
+
+33. How do you pass data between components?
+
+34. What are pipes in Angular?
+
+35. Can you give examples of inbuilt Angular pipes?
+
+36. How do you write a custom pipe?
+
+37. What is RxJs and why is it needed?
+
+38. What are observables and observers?
+
+39. What is a stream in RxJs?
+
+40. What is the use of subscribe in RxJs?
+
+41. How do you unsubscribe from a stream?
+
+42. What are operators in RxJs?
+
+43. Where have you used RxJs in Angular?
+
+44. Differentiate between RxJs and Promises.
+
+45. How do you install RxJs?
+
+46. Why is RxJs called push/reactive and not pull/imperative?
+
+47. Name some RxJs operators.
+
+48. What are interceptors in Angular?
+
+49. How do you implement interceptors?
+
+50. What are some uses of interceptors, and can we provide multi-interceptors?
+
+
+
+Frontend Interview Prep: React, JavaScript, and More!
+Here’s the list of questions:
+1.  Design patterns in React.js?
+2.  OOP principles in JS? How followed?
+3.  useCallback vs useMemo?
+4.  Send data child to parent in React?
+5.  Event delegation example?
+6.  What’s React Portal?
+7.  CSS: Fixed vs absolute?
+8.  Debouncing vs throttling, with code?
+9.  Arrow vs normal function?
+10.  First-class vs pure function?
+11.  Call by ref vs value?
+12.  useImperativeHandle hook in React?
+13.  Localization vs globalization?
+14.  Catch errors in React?
+15.  Error Boundary in React?
+16.  useTransition hook?
+17.  Suspense & lazy loading in React?
+18.  Event Loop in JS?
+19.  Generator function?
+20.  Controlled vs uncontrolled component?
+21.  Middleware: Redux Thunk vs Saga?
+22.  Check if number is decimal?
+23.  Reconciliation in React, why keys in map?
+24.  Update state from prev state?
+25.  Is useState/setState async?
+26.  HOC with example?
+27.  Render props?
+28.  JS Promise methods (race, all)?
+29.  Improve web app performance?
+30.  Render many UI components efficiently?
+31.  defer vs async difference?
+32.  Semantic HTML?
+33.  Responsive UI without framework?
+34.  Mock API with Jest?
+35.  Temporal Dead Zone?
+36.  Type vs interface in TS?
+37.  Generics in TS?
+38.  Service worker & usage?
+39.  Call stack & task execution impact?
+40.  WebSocket & how it works?
+41.  Data flow & API fetch in Next.js?
+42.  ES6 features & JS data types?
+43.  Pure Component & React.memo?
+44.  useCallback vs useMemo vs React.memo?
+45.  Function currying?
+46.  call, apply, bind in JS?
+47.  Hoisting in JS?
+48.  React Portal & its use?
+49.  Send data child to parent?
+50.  Prototypal inheritance?
+51.  Prefetch vs preload?
+52.  SSR vs SSG, data fetch in Next.js?
+53.  Object.freeze vs Object.seal?
+54.  Polyfills? Write for reduce.
+55.  Caching in Node.js app?
+56.  Saga vs Thunk difference?
+57.  Frontend arch patterns & state mgmt?
+58.  Client vs server-side caching?
+
+
+In a Javascript L1 & L2 round the following questions can be asked from interviewer.
+
+1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
+2. What is the difference between map and filter ?
+3. What is the difference between map() and forEach() 
+4. What is the difference between Pure and Impure functions?
+5. What is the difference between for-in and for-of ?
+6. What are the differences between call(), apply() and bind() ?
+7. List out some key features of ES6 ?
+8. What’s the spread operator in javascript ?
+9. What is rest operator in javascript ?
+10. What are DRY, KISS, YAGNI, SOLID Principles ?
+11. What is temporal dead zone ?
+12. Different ways to create object in javascript ?
+13. Whats the difference between Object.keys,values and entries
+14. Whats the difference between Object.freeze() vs Object.seal()
+15. What is a polyfill in javascript ?
+16. What is generator function in javascript ?
+17. What is prototype in javascript ?
+18. What is IIFE ?
+19. What is CORS ?
+20. What are the different datatypes in javascript ?
+21. What are the difference between typescript and javascript ?
+22. What is authentication vs authorization ?
+23. Difference between null and undefined ?
+24. What is the output of 3+2+”7” ?
+25. Slice vs Splice in javascript ?
+26. What is destructuring ?
+27. What is setTimeOut in javascript ?
+28. What is setInterval in javascript ?
+29. What are Promises in javascript ?
+30. What is a callstack in javascript ?
+31. What is a closure ?
+32. What are callbacks in javascript ?
+33. What are Higher Order Functions in javascript ?
+34. What is the difference between == and === in javascript ?
+35. Is javascript a dynamically typed language or a statically typed language 
+36. What is the difference between Indexeddb and sessionstorage ?
+37. What are Interceptors ?
+38. What is Hoisting ?
+39. What are the differences let, var and const ?
+41. Differences between Promise.all, allSettled, any, race ?
+42. What are limitations of arrow functions?
+43. What is difference between find vs findIndex ?
+44. What is tree shaking in javascrip
+45. What is the main difference between Local Storage and Session storage
+46. What is eval()
+47. What is the difference between Shallow copy and deep copy
+48. What are the difference between undeclared and undefined variables
+49. What is event bubbling
+50. What is event capturing
+51. What are cookies
+52. typeOf operator
+53. What is this in javascript and How it behaves in various scenarios 
+54. How do you optimize the performance of application
+55. What is meant by debouncing and throttling
+
+
+
+
+
+  console.log('Duplicate Employees:', employees);
+
+  //  find the grou[p of employees by department
+  
+var grouped = {};
+employees.forEach((item) => {
+  if (!grouped[item.department]) {
+    grouped[item.department] = [];
+  }
+  grouped[item.department].push(item);
+})
+
+
+
+  employees = employees.filter((employee, index) => {
+    return employees.findIndex(e => e.id === employee.id) === index;
+  });
+
+  console.log('Unique Employees:', employees);
+
+  var groupedEmployees = {};
+  for (let i = 0; i < employees.length; i++) {
+    const emp = employees[i];
+    if (!groupedEmployees[emp.department]) {
+      groupedEmployees[emp.department] = [];
+    }
+    // Check if employee with same id already exists in this department
+    if (!groupedEmployees[emp.department].some(e => e.id === emp.id)) {
+      groupedEmployees[emp.department].push(emp);
+    }
+  }
+  console.log('Grouped Employees:', groupedEmployees);
+
+  // var maxSalary = employees[0].salary;
+
+  // for (let i = 0; i < employees.length; i++) {
+  //     if (maxSalary < employees[i].salary) {
+  //         maxSalary = employees[i].salary          
+  //     }     
+  // }
+
+  // console.log('Max Salary:', maxSalary);
+
+let first = -Infinity;
+let second = -Infinity;
+
+for (let i = 0; i < employees.length; i++) {
+   if (employees[i].salary > first) {
+      second = first;
+      first = employees[i].salary;
+  }
+}
+
+console.log('First Highest Salary:', first);
+console.log('Second Highest Salary:', second);
+
+
+<script>
+  // var employees = [
+  //   { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+  //   { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+  //   { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+  //   { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+  //   { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+  //   { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+  //   { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+  //   { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+  // ];
+
+  // find the duplicate employees
+  // var res = [];
+  // employees.forEach((item) => {
+  //   if (!res.some(e => e.id === item.id)) {
+  //     res.push(item);
+  //   };
+  // });
+  // employees = res;
+  // console.log('Unique Employees:', employees);
+
+  // find the Maximum Salary and the Employee with that Salary
+  //       var maxSalary =  employees[0];
+  //       // for (let i = 0; i < employees.length; i++) {
+  //       //       if(employees[i].salary > maxSalary.salary) {
+  //       //          maxSalary = employees[i];
+  //       //       }
+  //       // }
+  //       // console.log('Maximum Salary:', maxSalary);
+  //   // find the 2nd highest Salary and the Employee with that Salary
+  //       var secondHighestSalary = employees[0];
+  //       for (let i = 0; i < employees.length; i++) {
+  //             if(employees[i].salary > secondHighestSalary.salary && employees[i].salary < maxSalary.salary) {
+  //                secondHighestSalary = employees[i];
+  //             }
+  //       }
+  //       console.log('Second Highest Salary:', secondHighestSalary);
+
+  var employees = [
+    { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+    { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+  ];
+
+  var res = [];
+  employees.forEach((item) => {
+    if (!res.some(e => e.id === item.id)) {
+      res.push(item);
+    };
+  });
+  employees = res;
+  console.log('Unique Employees:', employees);
+
+  let groupdData = {}
+  employees.forEach(emp => {
+    const { active, ...rest } = emp;
+    if (!groupdData[emp.department]) {
+      groupdData[emp.department] = [];
+    }
+    groupdData[emp.department].push(rest)
+  });
+  console.log(groupdData);
+</script>
+
+
+1)  get the duplicate charectors in a string
+  Answer:-  
+```javascript 
+function findDuplicateCharacters(str) {
+    const charCount = {};
+    const duplicates = [];
+
+    for (const char of str) {
+        charCount[char] = (charCount[char] || 0) + 1;
+    }
+
+    for (const char in charCount) {
+        if (charCount[char] > 1) {
+            duplicates.push(char);
+        }
+    }
+
+    return duplicates;
+}
+
+
+const user = {
+    value: 0,
+    greet: () => {
+         value = 0;
+        return this.value++
+    }
+};
+console.log(user.greet());
+
+const user1 = {
+    value: 0,
+    greet: () => {
+        return ++this.value
+    }
+};
+console.log(user1.greet());
+
+
+const user2 = {
+    value: 0,
+    greet: function() {
+        return this.value++
+    }
+};
+console.log(user2.greet());
+
+const user3 = {
+    value: 0,
+    greet: () => {
+        setTimeout(() => {
+            return this.value++;
+        }, 1000);
+    }
+};
+
+const user4 = {
+    value: 0,
+    greet: function() {
+        setTimeout(() => {
+            return ++this.value
+        }, 1000);
+    }
+};
+console.log(user4.greet());
+
+
+function Counter() {
+  this.count = 0;
+  setInterval(function () {
+    this.count++;
+    console.log(this.count);
+  }, 1000);
+}
+
+new Counter();
+
+
+ ✅ Angular Interview Prep Plan (for 6–8 YOE)
+🔹 Core Angular Topics
+Component lifecycle hooks (ngOnInit, ngAfterViewInit, etc.)
+
+Change Detection strategies (Default vs OnPush)
+
+Dependency Injection & Services
+
+RxJS (Subjects, Observables, Operators: map, switchMap, mergeMap)
+
+Angular Routing & Lazy Loading
+
+Forms: Template-driven vs Reactive Forms
+
+Unit Testing with Jasmine + Karma
+
+Angular CLI and Build Optimizations
+
+🔹 Advanced Topics
+Standalone Components (Angular 14+)
+
+Signals and Fine-Grained Reactivity (Angular 16+)
+
+Module Federation & Micro Frontends
+
+SSR with Angular Universal
+
+State management (NgRx / Signals-based stores)
+
+✅ JavaScript Interview Topics (Code-focused)
+🔹 Must-Know Concepts
+Closures, Hoisting, Scope
+
+Callbacks, Promises, async/await
+
+this, bind/call/apply
+
+Event loop, microtasks vs macrotasks
+
+ES6+ features: destructuring, spread/rest, arrow functions, etc.
+
+🔹 Practice Questions
+Flatten an array
+
+Deep clone an object
+
+Debounce and throttle functions
+
+Implement custom map, filter, or reduce
+
+Group-by logic and sorting/filtering objects
+
+📘 What You’ll Get From Me:
+Weekly schedule (Angular + JS)
+
+Code-based interview questions with answers
+
+Mock interview set tailored to EPAM-style rounds
+
+Resume optimization with keywords for Angular/JS roles
+
+💬 Let's start:
+Would you like:
+
+[A] A weekly roadmap (Angular + JS combined)?
+
+[B] Immediate list of top Angular + JS questions with answers?
+
+[C] Sample resume tailored to EPAM?
+
+Let me know your preference and I’ll proceed.
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="src/style.css">
+</head>
+
+<body>
+  <h1 id="header"></h1>
+  <div class="div">
+    I am From Main Div
+  </div>
+
+  <div class="div">
+    I am From Mid Div
+  </div>
+
+  <div class="div">
+    I am From Inner Div
+  </div>
+  <br><br>
+  <input type="button" name="button" id="button1" value="Button1"><br><br>
+  <input type="button" name="button" id="button2" value="Button2"><br><br>
+  <input type="button" name="button" id="button3" value="Button3"><br><br>
+
+
+  <script src="src/script.js"></script>
+</body>
+
+</html>
+
+
+===============================================================================================================================
+
+document.getElementById('button1').addEventListener('click', function () {
+document.querySelectorAll('div').forEach((item) => {
+item.style.fontSize = '12px';
+item.style.color = 'red'
+});
+});
+
+
+
+document.getElementById('button2').addEventListener('click', function () {
+const innerDiv = document.querySelectorAll('.div')[1];
+const computedStyle = window.getComputedStyle(innerDiv);
+
+if (computedStyle.fontSize === '16px') {
+alert('please click on Button1 then after you can click on Button 2')
+} else {
+document.querySelectorAll('div').forEach((item) => {
+item.style.fontSize = '18px';
+item.style.color = 'blue'
+})
+}
+});
+
+document.getElementById('button3').addEventListener('click', function () {
+const innerDiv = document.querySelectorAll('.div')[2];
+const computedStyle = window.getComputedStyle(innerDiv);
+
+if (computedStyle.fontSize === '16px') {
+alert('please click on First Button1 then Click on Button2 then after you can click on Button 3')
+} else {
+document.querySelectorAll('div').forEach((item) => {
+item.style.fontSize = '18px';
+item.style.color = 'green'
+})
+}
+});
+
+
+if number of rows => 3
+1
+2,3
+4,5,6
+
+if number of rows => 4
+1
+2,3
+4,5,6
+7,8,9,10
+
+if number of rows => 5
+1
+2,3
+4,5,6
+7,8,9,10
+11,12,13,14
+
+if number of rows => 6
+
+1,
+2,3
+4,5,6
+7,8,9,10
+11,12,13,14
+15,16,17,18,19
+
+
+function pyramid(n){
+    num=1;
+    for(i=1;i<=n;i++){
+        j=i;
+        arr=[]
+        for(j=1;j<=i;j++){
+            arr.push(num)
+            num++
+        }
+        console.log(arr.join(','))
+  }
+}
+pyramid(5)
+
+
+
+
+Position: Senior AEM Developer
+Total Experience: 7+ years
+Relevant Experience: 6 years
+Location: Chennai
+Band: Open
+OMTA: Yes
+
+Job Description:
+Job Duties:
+Implement content management solutions using Adobe Experience Manager (AEM) – both On-Prem (6.5.x) and AEM Cloud Service.
+
+Analyze customer requirements and create implementation concepts.
+
+Independently develop and implement AEM solutions.
+
+Implement supplied web front-end in AEM templates.
+
+Work on headless architecture using GraphQL and React/Angular.
+
+Support product owners by evaluating AEM architecture, technologies, internal interfaces, and third-party integrations.
+
+Handle build and deployment activities for both On-Prem and Cloud environments.
+
+Required Technical and Professional Expertise:
+Strong experience with AEM Core Technologies:
+
+OSGi Services
+
+Apache Sling
+
+Granite Framework
+
+Java Content Repository (JCR) API
+
+Java 8 or higher
+
+Localization
+
+Proficient in build tools: Jenkins and Maven.
+
+Version control experience, especially with Git.
+
+Sound knowledge of design patterns and clean coding practices.
+
+Front-end skills: HTML, CSS, JavaScript, and jQuery.
+
+Familiarity with GraphQL, React, and Angular.
+
+Experience with pair programming and code reviews.
+
+Experience in writing JUnit test cases.
+
+Familiar with JIRA and Confluence for task management and collaboration.
+
+
+
+Position: UI Developer (Angular)
+Total Years of Experience: 5 to 10 years
+Relevant Experience: 5+ years
+Work Location: Pune / Chennai
+
+Required Skills (Maximum 6)
+Mandatory:
+5+ years of hands-on experience in UI development using Angular.
+
+Proven experience in building high-performing, responsive, and interactive web applications.
+
+Proficient in the following technologies:
+
+Angular 12+
+
+Bootstrap
+
+TypeScript
+
+JavaScript
+
+CSS3
+
+HTML5
+
+NodeJS
+
+Solid understanding of Micro Frontend architecture.
+
+Strong experience with Git for version control.
+
+Skilled in writing unit test cases using Karma and Jasmine.
+
+Ability to automate unit tests to ensure code quality and functionality.
+
+Working knowledge of Agile methodologies.
+
+Good to Have:
+Knowledge of OpenShift.
+
+Understanding of the deployment process.
+
+Familiarity with Continuous Integration/Continuous Delivery (CI/CD) concepts.
+
+Experience with CI tools such as Jenkins or Bamboo.
+
+
+	
+Software Engineer
+		Chennai
+		5 - 10 years
+		Not Disclosed
+		Hybrid
+		React.Js, Node.Js, Javascript
+	
+I'm interested
+
+You will get a reminder mail for this interview
+Time and Venue
+		
+When?
+02nd Aug 2025, 9.30 AM to 5.30 PM
+		
+Where?
+Tower-1, L&T Innovation Campus, Mount Poonamalee Road | Manapakkam| Chennai - 600089| INDIA
+Job description
+
+Qualifications
+
+BS or MS degree in computer science computer engineering or other technical discipline or equivalent 34 years of work experience
+
+5 to 7 years experience working in Java and able to demonstrate good Java knowledge
+
+Able to demonstrate good web fundamentals and HTTP protocol knowledge
+
+Good attitude communication willingness to learn and collaborate
+
+5 yrs development experience in developing Java applications in an enterprise setting Experience working with Java 11 and above is a plus
+
+5 yrs experience developing java applications in frameworks such as Spring Spring Boot Drop wizard is a plus
+
+23 yrs recent experience working in Javascript on Node stack is a plus
+
+3 years Experience with Test Driven Development TDD Behavior Driven Development BDD practices unit testing functional testing system integration testing regression testing GUI testing web service testing and browser compatibility testing including frameworks such as Selenium WebDriverIO Cucumber JUnit Mockito
+
+Experience with continuous integration and continuous delivery environment
+
+3 to 4 yrs working in an Agile or SAFe development environment
+
+Solid Understanding of distributed systems
+
+Proven experience building scalable web application using Java
+
+Responsibilities include but not limited to
+
+Serving as a core member of an agile team that drives user story analysis and elaboration designs and develops responsive web applications using the best engineering practices
+
+Performing handson software development typically spending most of time actually writing code and unit tests doing proof of concepts conducting code reviews and testing in ongoing sprints
+
+Performing ongoing refactoring of code and delivering continuous improvement
+
+Developing deep understanding of integrations with other systems and platforms within the supported domains
+
+Manage your own time and work well both independently and as part of a team
+
+Work closely with product managers backend and other frontend engineers to implement versatile solutions to tricky web development problems
+
+Work with Product Owners to define requirements for new features and plan increments of work
+
+Drive automation and ensure automated test scripts are completed for new features in partnership with QA Engineers
+
+Perform all technical aspects of software development for assigned applications including developing prototypes writing new code and creating APIs
+
+Design and build integration components and interfaces in collaboration with Senior Engineers Architects and Infrastructure Engineers as necessary
+
+Skills
+
+Mandatory Skills : Git,API Gateway,Microservices,Postman,SpringBoot,JUNIT,Maven,Selenium Testing Automation,Swagger,Java MicroservicesRole & responsibilities
+
+
+
+Preferred candidate profile
+
+
+
+Perks and benefits
+
+About Amgen
+
+Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We discover, develop, manufacture and deliver innovative medicines to help millions of patients. Amgen helped establish the biotechnology industry more than 40 years ago and remains on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today.
+
+About The Role
+
+Role Description:
+
+The UI Developer is responsible for designing, developing, and maintaining user interfaces for software applications and solutions that meet business needs. This role involves working closely with product managers, designers, and other engineers to create high-quality, scalable software solutions.
+
+Roles & Responsibilities:
+
+Take ownership of complex software projects from conception to deployment. 
+Manage software delivery scope, risk, and timeline. 
+Possess strong rapid prototyping skills and can quickly translate concepts into working code. 
+Contribute to front-end development using cloud technology. 
+Develop innovative solutions using generative AI technologies. 
+Conduct code reviews to ensure code quality and adherence to best practices. 
+Create and maintain documentation on software architecture, design, deployment, disaster recovery, and operations. 
+Identify and resolve technical challenges effectively. 
+Stay updated with the latest trends and advancements in UI development. 
+Work closely with the product team, business team, and other stakeholders. 
+Design, develop, and implement user interfaces and modules, including custom reports, interfaces, and enhancements. 
+Analyze and understand the functional and technical requirements of applications, solutions, and systems and translate them into software architecture and design specifications. 
+Develop and execute unit tests, integration tests, and other testing strategies to ensure the quality of the software. 
+Identify and resolve software bugs and performance issues. 
+Work closely with cross-functional teams, including product management, design, and QA, to deliver high-quality software on time. 
+Maintain detailed documentation of software designs, code, and development processes. 
+Customize modules to meet specific business requirements. 
+Work on integrating with other systems and platforms to ensure seamless data flow and functionality. 
+Provide ongoing support and maintenance for applications, ensuring that they operate smoothly and efficiently. 
+Develop intuitive and responsive user interfaces (UIs) that enable users to efficiently interact with multiple datasets, leveraging modern front-end frameworks and libraries. 
+Collaborate with UX designers to translate design mockups and wireframes into interactive and visually appealing user interfaces. 
+Implement UI animations and transitions to enhance the user experience and provide feedback to users. 
+Optimize UI performance by identifying and addressing bottlenecks, ensuring smooth and fast interactions. 
+Ensure accessibility standards are met, making the UI usable for people with disabilities. 
+Participate in Agile ceremonies (Daily Scrum/Refinement/Retro) to partner with the product owner and team to discuss, set, and deliver two-week developmental goals. 
+Keep abreast of technology upgrades and advancements and provide recommendations to improve process efficiencies. 
+
+Basic Qualifications and Experience:
+
+Master’s degree and 1 to 3 years of experience in Computer Science, IT, or a related field OR 
+Bachelor’s degree with 3 - 5 years of experience in Computer Science, IT, or a related field OR 
+Diploma with 7 - 9 years of experience in Computer Science, IT, or a related field 
+
+Functional Skills:
+
+Must-Have Skills:
+
+Strong knowledge of information systems and network technologies. 
+Proficiency in programming languages such as JavaScript (preferred), HTML/CSS. 
+Strong understanding of software development methodologies, including Agile and Scrum. 
+Experience with version control systems like Git. 
+Experience with front-end frameworks such as React.js or Angular.js. 
+Experience with responsive and adaptive design principles. 
+Knowledge of UI/UX best practices and design patterns. 
+Experience with UI testing frameworks such as Jest, Enzyme, or Cypress. 
+Experience with modern front-end frameworks and libraries (e.g., React, Node.js), and expertise in building responsive and user-friendly UIs. 
+
+Good-to-Have Skills:
+
+Strong understanding of cloud platforms (e.g., AWS, GCP, Azure) and containerization technologies (e.g., Docker). 
+Experience with monitoring and logging tools (e.g., Prometheus, Grafana). 
+Experience with data processing tools like Hadoop or similar. 
+Experience with UI performance optimization techniques. 
+Familiarity with accessibility standards and tools for testing accessibility. 
+Knowledge of data governance principles and familiarity with Great Expectations for data validation. 
+Hands-on experience building data pipelines using applications like Databricks. 
+Solid grasp of infrastructure as code, developing and operating programmatic pipelines for cloud services, and using automated DevSecOps frameworks to run a cloud SDLC. 
+Knowledge or experience in basic DevOps support and deployment including Docker, Kubernetes, CICD, etc. 
+
+Professional Certifications:
+
+Relevant certifications such as CISSP, CompTIA Network+, or MCSE (preferred). 
+
+Soft Skills:
+
+Excellent analytical and troubleshooting skills. 
+Strong verbal and written communication skills. 
+Ability to work effectively with global, virtual teams. 
+High degree of initiative and self-motivation. 
+Ability to manage multiple priorities successfully. 
+Team-oriented, with a focus on achieving team goals. 
+Strong presentation and public speaking skills. 
+
+Shift Information:
+
+This position requires you to work a later shift and may be assigned a second or third shift schedule. Candidates must be willing and able to work during evening or night shifts, as required based on business requirements.
+
+EQUAL OPPORTUNITY STATEMENT
+
+Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+We will ensure that individuals with disabilities are provided with reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+
+
+
+
+Suri and millions of other members use Premium
+
+Try Premium for ₹0
+1-month free trial. Cancel whenever. We’ll remind you 7 days before your trial ends.
+
+About the company
+Amgen company logo
+Amgen
+1,460,662 followers
+
+Follow
+Biotechnology Research  10,001+ employees  35,632 on LinkedIn
+Amgen harnesses the best of biology and technology to fight the world’s toughest diseases, and make people’s lives easier, fuller and longer. We helped establish the biotechnology industry, and we remain on the cutting-edge of innovation, using technology and human genetic data to push beyond what’s known today. Our investment in research and development has yielded a robust pipeline that builds on our existing portfolio of medicines to treat cancer, heart disease, osteoporosis, inflammatory diseases and rare diseases.
+
+Amgen is one of 30 companies comprising the Dow Jones Industrial Average®, and part of the Nasdaq-100 Index®. In 2024, Amgen was named one of the “World’s Most Innovative Companies” by Fast Company and one of “America’s Best Large Employers” by Forbes.
+
+For more information, visit Amgen.com and follow us on X, LinkedIn, Instagram, TikTok, YouTube and Threads.
+
+🔗 Community Guidelines: https://wwwext.amgen.com/community-guidelines
+
+🔗Global Privacy Statement Directory: www.amgen.com/dp
+
+
+Special Advisory: Please be cautious of scam recruitment offers claiming to be from Amgen. Such scams may come from various sources, including fake websites and/or unsolicited emails and seek to obtain personal data or payment from victims by offering jobs that do not exist. Please be advised that Amgen would never ask for payment to progress a job application. When in doubt, please check to see if the position in question is posted on this website before applying. Additionally, please report any suspicious recruiting activity to https://complaint.ic3.gov/ and thank you for your assistance.
+…
+show more
+
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who
+
+
+const Obj = {
+    a: 12,
+    getValue: function () {
+        ++this.a;
+    }
+}
+
+console.log(Obj.getValue())
+
+const Obj1 = {
+    a: 12,
+    getValue: () => {
+        this.a++;
+    }
+}
+
+console.log(Obj1.getValue())
+
+const Obj2 = {
+    a: 12,
+    getValue: function () {
+        setTimeout(() => {
+            this.a++;
+        }, 1000);
+    }
+}
+
+console.log(Obj2.getValue())
+
+const Obj3 = {
+    a: 12,
+    getValue: function () {
+        setTimeout(function () {
+            this.a++;
+        }, 1000);
+    }
+}
+
+console.log(Obj3.getValue())
+
+
+console.log("1");
+setTimeout(() => console.log("2"), 0);
+Promise.resolve()
+    .then(() => console.log("3"))
+    .catch(() => console.log("4"))
+    .finally(() => console.log("5"))
+Promise.reject()
+    .then(() => console.log("6"))
+    .catch(() => console.log("7"))
+    .finally(() => console.log("8"));
+setTimeout(() => console.log("9"), 0);
+console.log("10");
+
+
+
+for (var i = 0; i <= 5; i++) {
+    console.log(i);
+    setTimeout(() => {
+        console.log()
+    }, i * 1000);
+}
+
+
+
+
+1)
+console.log(typeof null);
+2)
+let a = 1;
+let b = 0;
+while (a <= 3) {
+	a++;
+	b += a * 2; 4
+	console.log(b);
+}
+3)
+const employees = [
+	{ id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+	{ id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+	{ id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+	{ id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+	{ id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+];
+
+let groupdData = {}
+employees.forEach(emp => {
+	const { active, ...rest } = emp;
+	if (!groupdData[emp.department]) {
+		emp[department] = [];
+	}
+	emp[department].push(rest)
+});
+console.log(groupdData);
+
+4)
+const nums = [1, 2, 3, 4, 5, 6, 7];
+nums.forEach((n) => {
+	if (n % 2 === 0)
+		break;
+	console.log(n);
+});
+5)
+let a = true + true + true * 3; // output I need
+
+6)
+let a = [1, 2, 3, 4, 5];
+console.log(a.slice(2, 4));
+
+7)
+const arr = ['A', 'N', 'U'];
+arr[10] = 10;
+console.log(arr.length);
+8)
+isNaN(true)
+
+9)
+const shoes = [
+	{ name: "Shoe 1", price: 100 },
+	{ name: "shoe 2", price: 200 },
+	{ name: "shoe 3", price: 300 }
+];
+
+10)  find the average price of shoes
+function findAvg(arr) {
+	arr.map((x) => {
+		return x.reduce((y) => return x.prrice + y.price)
+	})
+	return arr[0] / 3;
+}
+
+const newShosws = findAvg(shoes)
+
+11)
+
+function Counter() {
+
+	this.count = 0;
+
+	setInterval(function () {
+
+		this.count++;
+
+		console.log(this.count);
+
+	}, 1000);
+
+}
+
+new Counter();; what will be printed ?
+
+
+	12)
+const employees = [
+	{ name: "Amit", age: 29, salary: 50000, department: "Engineering" },
+	{ name: "Neha", age: 32, salary: 47000, department: "Marketing" },
+	{ name: "Ravi", age: 35, salary: 52000, department: "Sales" },
+	{ name: "Kavita", age: 28, salary: 43000, department: "Design" },
+	{ name: "Manish", age: 49, salary: 55000, department: "Finance" },
+	{ name: "Sneha", age: 30, salary: 46000, department: "HR" },
+	{ name: "Arun", age: 27, salary: 48000, department: "Support" },
+	{ name: "Divya", age: 34, salary: 51000, department: "Engineering" }
+];
+
+
+i) find the employee with the highest salary
+Answer:
+  ========
+
+	let maxSalary = employees[0];
+
+for (let i = 0; i < employees.length; i++) {
+	if (employees[i].salary > maxSalary.salary) {
+		maxSalary = employees[i];
+	}
+}
+console.log(maxSalary)
+
+ii) find the employee with the lowest age
+Answer:
+  ========
+
+	let minAge = employees[0];
+
+for (let i = 0; i < employees.length; i++) {
+	if (employees[i].age < minAge.age) {
+		minAge = employees[i];
+	}
+}
+console.log(minAge);
+
+iii) find the average salary of employees
+Answer:
+  ========
+	let totalSalary = employees.reduce((sum, emp) => sum + emp.salary, 0);
+let averageSalary = totalSalary / employees.length;
+console.log(averageSalary);
+
+iv) find the total number of employees in each department
+Answer:
+ =========
+	let departmentCount = {};
+employees.forEach(emp => {
+	if (!departmentCount[emp.department]) {
+		departmentCount[emp.department] = 0;
+	}
+	departmentCount[emp.department]++;
+});
+
+v) find the employee with the longest name
+Answer: -
+ ==========
+let longestNameEmployee = employees[0];
+for (let i = 0; i < employees.length; i++) {
+	if (employees[i].name.length > longestNameEmployee.name.length) {
+		longestNameEmployee = employees[i];
+	}
+}
+
+vi) find the average age of employees
+Answer:
+let totalAge = employees.reduce((sum, emp) => sum + emp.age, 0);
+let averageAge = totalAge / employees.length;
+console.log(averageAge);
+
+vi) find the employee with the highest age
+Answer:
+ =========
+	let maxAge = employees[0];
+for (let i = 0; i < employees.length; i++) {
+	if (employees[i].age > maxAge.age) {
+		maxAge = employees[i];
+	}
+}
+console.log(maxAge);
+
+vii) find the total salary of employees in the "Engineering" department
+Answer:
+ =========
+	let engineeringTotalSalary = employees
+		.filter(emp => emp.department === "Engineering")
+		.reduce((sum, emp) => sum + emp.salary, 0);
+console.log(engineeringTotalSalary);
+
+viii) find the employee with the highest salary in the "HR" department
+Answer:
+ =========
+	let hrEmployees = employees.filter(emp => emp.department === "HR");
+let highestHREmployee = hrEmployees[0];
+for (let i = 0; i < hrEmployees.length; i++) {
+	if (hrEmployees[i].salary > highestHREmployee.salary) {
+		highestHREmployee = hrEmployees[i];
+	}
+}
+console.log(highestHREmployee);
+ix) find the total number of employees with a salary greater than 50000
+Answer:
+ =========
+	let highSalaryCount = employees.filter(emp => emp.salary > 50000).length;
+console.log(highSalaryCount);
+
+x) find the employee with the lowest salary in the "Sales" department
+Answer:
+ =========
+	let salesEmployees = employees.filter(emp => emp.department === "Sales");
+let lowestSalesEmployee = salesEmployees[0];
+for (let i = 0; i < salesEmployees.length; i++) {
+	if (salesEmployees[i].salary < lowestSalesEmployee.salary) {
+		lowestSalesEmployee = salesEmployees[i];
+	}
+}
+
+xi) find the total number of employees in the "Marketing" department
+Answer:
+ =========
+	let marketingCount = employees.filter(emp => emp.department === "Marketing").length;
+console.log(marketingCount);
+
+
+13) without using third variable and destrcuring I need to 	swap the 2 numbers ?
+	Answer :
+ =========
+	let a = 13;
+let b = 8
+a = a + b;
+b = a - b;
+a = a - b
+console.log(a, b)
+
+14)  find the longest word in a string;
+Answer:
+ =========
+var name = "I am from Angular and I am learning JavaScript";
+var res = name.split(" ");
+var finalResp = res[0];
+for (let i = 0; i < res.length; i++) {
+	if (res[i].length > finalResp.length) {
+		finalResp = res[i];
+	}
+}
+
+15) sum of array elements in a given array
+Answer:
+=========
+   var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+   var sum = 0;
+   for (let i = 0; i < arr.length; i++) {
+	  sum += arr[i];
+   }
+   console.log(sum);
+
+16) I need to find the numbers in an array that end with 7 or 5?
+Answer:
+==========
+var arr = [45, 87, 97, 5, 6, 7, 9, 55, 45, 95];
+var result = [];
+for (let i = 0; i < arr.length; i++) {
+	if (arr[i] % 10 === 7 || arr[i] % 10 === 5) {
+		result.push(arr[i]);
+	}
+}
+
+17) I need to find the numbers in an array that are prime numbers?
+Answer:
+==========
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var primeNumbers = [];
+
+function isPrime(num) {
+    if (num <= 1) return false;
+    for (let i = 2; i <= Math.sqrt(num); i++) {
+        if (num % i === 0) return false;
+    }
+    return true;
+}
+
+
+18)  I need to find the numbers in an array that are even numbers?
+Answer:
+==========
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var evenNumbers = [];
+for (let i = 0; i < arr.length; i++) {
+	if (arr[i] % 2 === 0) {
+		evenNumbers.push(arr[i]);
+	}
+}
+console.log(evenNumbers);
+
+19) I need to find the numbers in an array that are odd numbers?
+Answer:
+==========
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var oddNumbers = [];
+for (let i = 0; i < arr.length; i++) {
+	if (arr[i] % 2 !== 0) {
+		oddNumbers.push(arr[i]);
+	}
+}
+console.log(oddNumbers);
+
+20) I need to find the top 4 elements in an array?
+Answer:
+==========
+var arr = [9, 4, 1, 7, 3, 9,10,15,9,8];
+
+function findTopFour(arr) {
+  let first = -Infinity;
+  let second = -Infinity;
+
+
+  for (let i = 0; i < arr.length; i++) {
+    let num = arr[i];
+
+    // Skip duplicates
+    if (num === first || num === second ) {
+      continue;
+    }
+
+    if (num > first) {
+      second = first;
+      first = num;
+    } else if (num > second) {
+      second = num;
+    }
+  }
+
+  return {
+    first: first !== -Infinity ? first : null,
+    second: second !== -Infinity ? second : null,
+
+  };
+}
+
+console.log(findTopFour(arr));
+
+21) I need to get the let values with in the function scope?
+Answer:
+==========
+function getLetValues() {
+  let a = 10;
+  let b = 20;
+
+  return { a, b };
+}
+
+const result = getLetValues();
+console.log(result); // { a: 10, b: 20 }
+
+22) I have name as per the code below?
+Answer:
+==========
+  let name = "srinivas";
+  name.reverse(); // I need to reverse the name
+  console.log(name); // Output: "sivanirs" but here getting error
+  // Answer:
+  [...name].reverse().join(''); // Correct way to reverse a string in JavaScript
+
+23) I need to  get the elemenst in the Objects as belwo?
+  Answer:
+==========
+var Obj = {name: "srinivas", age: 30, addres: { city: "Hyderabad", state: "Telangana" }};
+  // I need to get the name, age and address in the object by using only destructuring
+  const { name, age, addres: { city, state } } = Obj;
+  console.log(name, age, city, state); // Output: srinivas 30 Hyderabad Telangana
+
+24)  Closures concept in JavaScript?
+Answer:
+==========
+function outer() {
+  let count = 0;
+  return function inner() {
+    return ++count;
+  };
+}
+const counter = outer();
+console.log(counter()); // ?
+console.log(counter()); // ?
+📘 Explanation:--
+======================
+1
+2
+
+The inner function remembers the count variable from outer() due to closure.
+
+25) Hoisting in javascript
+Answer:
+==========
+console.log(a); // undefined
+var a = 10;
+
+📘 Explanation:
+var is hoisted, but only the declaration, not the value assignment.
+
+26) this in Timeout	javascript?
+Answer:
+==========
+const person = {
+  name: "Alice",
+  greet: function () {
+    setTimeout(function () {
+      console.log("Hello, " + this.name);
+    }, 1000);
+  }
+};
+person.greet(); // Output: Hello, undefined
+📘 Explanation:
+i) The `this` keyword inside the setTimeout function does not refer to the `person` object, but to the global object (or undefined in strict mode). To fix this, you can use an arrow function or bind `this`.
+ii) Inside setTimeout, this refers to the global object. Use arrow function to retain context.
+
+27) Closures in Loops javascript?
+Answer:
+==========
+for (var i = 0; i < 3; i++) {
+  setTimeout(function () {
+	console.log(i);
+  }, 1000);
+}
+// Output: 3, 3, 3
+📘 Explanation:
+i) The loop completes before the setTimeout callbacks execute, so `i` is 3 in all cases. To fix this, use `let` or an IIFE to create a new scope for each iteration.
+ii) var is function-scoped, so all callbacks share same i. Use let for block-scoping.
+
+28)  Type Coercion javascript
+Answer:
+==========
+console.log(1 + "2"); // "12"
+console.log(1 - "2"); // -1
+console.log(1 * "2"); // 2
+console.log(1 / "2"); // 0.5
+console.log(1 + true); // 2
+console.log(1 + null); // 1
+console.log(1 + undefined); // NaN
+console.log([] == false); // true
+console.log([] === false); // false
+
+📘 Explanation:
+== does type coercion: [] is truthy but becomes '', which is falsy. === checks type too.
+
+29)  Prototypes javascript?
+Answer:-
+==========
+i)
+function Person(name) {
+	this.name = name;
+}
+Person.prototype.greet = function() {
+	console.log("Hello, " + this.name);
+};
+const alice = new Person("Alice");
+alice.greet(); // Output: Hello, Alice
+
+ii)
+function Animal() {}
+Animal.prototype.speak = function () {
+  return "Roar";
+};
+const tiger = new Animal();
+console.log(tiger._proto_ === Animal.prototype);   // Output: arduino
+
+📘 Explanation:
+Every instance's _proto_ points to its constructor's prototype.
+
+30)  Async/Await Return javascript?
+Answer:
+==========
+async function fetchData() {
+  return "data";
+}
+const data = fetchData();
+console.log(data);
+output:-
+=========
+Promise {<fulfilled>: "data"}
+📘 Explanation:-
+====================
+Async functions always return a Promise.
+
+31)  Async/Await with Error Handling javascript?
+Answer:
+
+async function fetchData() {
+  try {
+	// Simulating an API call
+	let response = await fetch("https://api.example.com/data");
+	if (!response.ok) {
+	  throw new Error("Network response was not ok");
+	}
+	let data = await response.json();
+	return data;
+  } catch (error) {
+	console.error("Fetch error:", error);
+  }
+}
+
+32) Promise Chain javascript?
+Answer:
+async function fetchData() {
+  return new Promise((resolve, reject) => {
+	setTimeout(() => {
+	  resolve("data");
+	}, 1000);
+  });
+}
+
+33) Async/Await Return javascript?
+Answer:
+async function fetchData() {
+  return "data";
+}
+const data = fetchData();
+console.log(data); // Output: Promise {<fulfilled>: "data"}
+📘 Explanation:
+async functions always return a Promise, even if you don't explicitly return one.
+
+34) Promise Chain javascript?
+Answer:
+Promise.resolve(1)
+  .then((x) => x + 1)
+  .then((x) => { throw new Error("Oops") })
+  .catch((err) => console.log(err.message))
+  .then(() => console.log("After error"));
+
+// Output:
+Oops
+After error
+📘 Explanation:
+Error is caught, and chain continues.
+
+35) Array reduce javascript?
+Answer:
+const numbers = [1, 2, 3, 4, 5];
+const sum = numbers.reduce((accumulator, currentValue) => {
+	return accumulator + currentValue;
+}, 0);
+console.log(sum); // Output: 15
+📘 Explanation:
+The reduce method iterates through the array, accumulating the sum of its elements.
+
+
+36) Array reduce javascript?
+
+const arr = [1, 2, 3, 4];
+const result = arr.reduce((acc, curr) => {
+  if (curr % 2 === 0) acc.push(curr * 2);
+  return acc;
+}, []);
+console.log(result); [4, 8]
+📘 Explanation:
+Only even numbers are pushed after doubling.
+
+37) Event Loop javascript?
+Answer:
+===========
+console.log("Start");
+setTimeout(() => console.log("Timeout"), 0);
+Promise.resolve().then(() => console.log("Promise"));
+console.log("End");
+
+Answer:
+Start
+End
+Promise
+Timeout
+📘 Explanation:
+Microtasks (Promises) run before macrotasks (setTimeout).
+
+38) Destructuring javascript?
+Answer:
+const config = { width: 300 };
+const { width, height = 100 } = config;
+console.log(width, height); // Output: 300 100
+📘 Explanation:
+Destructuring allows unpacking values from objects or arrays into distinct variables. Default values can be provided for missing properties.
+
+ii) height is not in the object, so default is used.
+
+39) Currying javascript?
+Answer:
+function add(a) {
+  return function(b) {
+	return a + b;
+  };
+}
+const addFive = add(5);
+console.log(addFive(10)); // Output: 15
+📘 Explanation:
+Currying transforms a function with multiple arguments into a series of functions that each take a single argument.
+
+ii)sum(10)(20)(30)(40)(); // I need to get the sum of all the numbers
+Answer:
+===========
+let sum = a => b => b ? sum(a + b) : a;
+console.log(sum(10)(20)(30)(40)()); // Output: 100
+
+40) Shallow Copy javascript?
+Answer:
+const original = { name: "John", meta: { age: 30 } };
+const copy = Object.assign({}, original);
+copy.meta.age = 40;
+console.log(original.meta.age);
+✅ Answer:
+40
+📘 Explanation:
+Shallow copy doesn't clone nested objects.
+
+41) IIFE javascript
+(function () {
+  var x = 10;
+  console.log(x);
+})();
+console.log(typeof x);
+✅ Answer:
+10
+undefined
+📘 Explanation:
+x is scoped inside IIFE.
+
+42) Spread and Rest javascript
+function test(...args) {
+  return args.length;
+}
+console.log(test(1, 2, 3, 4));
+✅ Answer:
+4
+📘 Explanation:
+Rest parameter collects all arguments into an array.
+
+43)  Freeze javascript?
+const obj = { a: 1 };
+Object.freeze(obj);
+obj.a = 10;
+obj.b = 20;
+console.log(obj);
+✅ Answer:
+{ a: 1 }
+📘 Explanation:
+Frozen object cannot be modified.
+
+44) bind() javascript
+
+function sayHi() {
+  return Hi, ${this.name};
+}
+const user = { name: "Bob" };
+const greet = sayHi.bind(user);
+console.log(greet());
+✅ Answer:
+Hi, Bob
+📘 Explanation:
+bind permanently sets this context.
+
+
+45) typeof vs instanceof javascript
+console.log(typeof null);
+console.log(null instanceof Object);
+✅ Answer:
+object
+false
+📘 Explanation:
+JS bug: typeof null returns "object", but it's not instance of Object.
+
+46) Classes javascript?
+class Animal {
+  speak() {
+    return "Generic sound";
+  }
+}
+class Dog extends Animal {
+  speak() {
+    return "Bark";
+  }
+}
+const pet = new Dog();
+console.log(pet.speak());
+✅ Answer:
+Bark
+📘 Explanation:
+Subclass overrides parent method
+
+47)  setTimeout + var javascript
+for (var i = 1; i <= 3; i++) {
+  setTimeout(() => console.log(i), 100);
+}
+✅ Answer:
+4
+4
+4
+📘 Explanation:
+var is not block-scoped. All log after loop ends.
+
+48) setTimeout + let javascript
+
+for (let i = 1; i <= 3; i++) {
+  setTimeout(() => console.log(i), 100);
+}
+✅ Answer:
+1
+2
+3
+📘 Explanation:
+let creates new scope for each iteration.
+
+49) Object.defineProperty javascript
+Answer:-
+========
+const obj = {};
+Object.defineProperty(obj, "x", {
+  value: 42,
+  writable: false
+});
+obj.x = 100;
+console.log(obj.x);
+✅ Answer: 42
+📘 Explanation:
+writable: false makes property immutable.
+
+50)  typeof NaN javascript
+console.log(typeof NaN);
+✅ Answer: number
+📘 Explanation:
+NaN is a special type of number.
+
+
+51) alsy values javascript
+const falsyValues = [0, '', null, undefined, NaN, false];
+console.log(falsyValues.filter(Boolean));
+✅ Answer: [] empty array
+📘 Explanation:
+Boolean() filters out all falsy values.
+
+52) Optional chaining javascript
+const user = { profile: null };
+console.log(user.profile?.name);
+✅ Answer: undefined
+📘 Explanation:
+Safe access using ?..
+
+
+53) Number precision javascript
+console.log(0.1 + 0.2 === 0.3);
+✅ Answer: false
+
+📘 Explanation:
+Floating point precision issue in JS.
+
+54)  parseInt weird case javascript
+console.log(parseInt("08"));
+✅ Answer: 8
+📘 Explanation:
+Modern JS assumes base 10. Older versions treated "08" as octal.
+
+
+55) In operator javascript
+const obj = { a: 1 };
+console.log("a" in obj);
+console.log("b" in obj);
+✅ Answer: true, false
+📘 Explanation:
+Checks property existence.
+
+56) Function length javascript
+function a(x, y, z) {}
+console.log(a.length);
+✅ Answer: 3
+📘 Explanation:
+Function length returns number of defined parameters.
+
+57) typeof function javascript
+function test() {}
+console.log(typeof test);
+✅ Answer: function
+📘 Explanation:
+Only function returns "function" for typeof.
+
+58) given a string I need Title Case it?
+Answer:
+function titleCase(str) {
+	return str.toLowerCase().split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1))
+	.join(" ");
+}
+const input = "hello world";
+const output = titleCase(input);
+console.log(output); // Output: "Hello World"
+
+59)  I need to count the string characters in a string?
+Answer:-
+==========
+var res = {}
+const input = "hello world";
+for (let i = 0; i < input.length; i++) {
+	const char = input[i];
+	if (res[char]) {
+		res[char]++;
+	} else {
+		res[char] = 1;
+	}
+}
+
+60) I need to find the longest word in a string?
+Answer:-
+===========
+var name = "I am from Angular and I am learning JavaScript";
+var res = name.split(" ");
+var finalResp = res[0];
+for (let i = 0; i < res.length; i++) {
+	if (res[i].length > finalResp.length) {
+		finalResp = res[i];
+	}
+}
+console.log(finalResp); // Output: "JavaScript"
+
+61) input:
+   let arrA = [
+  { id: 1, name: "test1" },
+  { id: 2, name: "test2" },
+  { id: 2, name: "test3" },
+  { id: 1, name: "test4" },
+  { id: 4, name: "test5" },
+  { id: 1, name: "test6" },
+  { id: 1, name: "test7" },
+  { id: 6, name: "test8" },
+]
+
+o/p:
+
+[
+  { id: 1, name: 'Hyderabad' },
+  { id: 2, name: 'test2' },
+  { id: 2, name: 'test3' },
+  { id: 1, name: 'Hyderabad' },
+  { id: 4, name: 'test5' },
+  { id: 1, name: 'Hyderabad' },
+  { id: 1, name: 'Hyderabad' },
+  { id: 6, name: 'test8' }
+]
+
+Answer:
+===========
+arrA = arrA.map(item => {
+  if (item.id === 1) {
+	return { ...item, name: "Hyderabad" };
+  }
+  return item;
+});
+console.log(arrA);
+
+62) I need to count the parhantheses in a string?
+Answer:
+===========
+input: "(()())()))";
+function countParentheses(str) {
+  let count = 0;
+  for (let char of str) {
+	if (char === '(') {
+	  count++;
+	} else if (char === ')') {
+	  count--;
+	}
+  }
+  return count;
+}
+
+console.log(countParentheses(input)); // Output: 1
+
+63) input:-
+    =======
+	test1_test2_test3
+
+	I need output as:-
+	=======
+ 	ouput:
+	i) Test1 Test2 Test3
+	ii) Test3 Test2 Test1
+	iii) Test2 Test3 Test1
+Answer:
+===========
+function formatString(input) {
+  return input
+	.split('_')
+	.map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+	.join(' ');
+}
+
+64) 1.NaN === NaN  // false
+
+2.true + false  // 1
+
+3."foo" + + "bar" // "fooNaN"
+4.[] + [] // ""
+
+
+var employee;
+
+employee = [];
+
+let promise = new Promise((resolve) => {
+
+console.log("A");
+
+resolve("");
+
+});
+
+console.log("B");
+
+let promise1 = new Promise((resolve) => {
+
+  setTimeout(() => {
+
+      console.log("C");
+
+    resolve("");
+
+  }, 1000);
+
+});
+
+
+console.log("D");
+
+65) Input: 123456789
+output: ***********789
+
+function maskNumber(input) {
+  const str = input.toString();
+  const maskedPart = '*'.repeat(str.length - 3);
+  const visiblePart = str.slice(-3);
+  return maskedPart + visiblePart;
+}
+
+const input = 123456789;
+const output = maskNumber(input);
+console.log(output); // *********789
+
+
+66)
+function greet(name = "Guest") {
+ return Hello, ${name};
+}
+
+console.log(greet(undefined));
+
+.map() — transform every item
+.filter() — keep only what matches
+.find() — get the first match
+.some() — returns true if at least one matches
+.every() — returns true only if all match
+
+67)
+const arr = [1, 2, 3];
+const [,, ...rest] = arr;
+console.log(rest);
+
+68)
+Input:-
+===========
+const obj1 = {};
+const obj2 = { key: "b" };
+const obj3 = { key: "c" };
+obj1[obj2] = 123;
+obj1[obj3] = 234;
+console.log(obj1[obj2]); // 234
+
+69)
+Input:-
+===========
+ const employees = [
+  { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+  { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+  { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+  { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+  { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+];
+
+i) let groupdData = {}
+	employees.forEach(emp => {
+	   const {active, ...rest} = emp;
+	   if(!groupdData[emp.department]) {
+	      emp[department] = [];
+	   }
+	   emp[department].push(rest)
+	});
+
+	console.log(groupdData)
+
+ii)
+const groupedByDept = {};
+for (let emp of employees) {
+  if (!groupedByDept[emp.department]) {
+    groupedByDept[emp.department] = [];
+  }
+  groupedByDept[emp.department].push(emp);
+}
+console.log(groupedByDept);
+
+o/p:
+{
+  IT: [
+    {
+      id: 1,
+      name: 'John',
+      department: 'IT',
+      salary: 50000,
+      age: 28,
+      active: true
+    },
+    {
+      id: 3,
+      name: 'Bob',
+      department: 'IT',
+      salary: 60000,
+      age: 35,
+      active: false
+    },
+    {
+      id: 5,
+      name: 'Charlie',
+      department: 'IT',
+      salary: 48000,
+      age: 26,
+      active: true
+    }
+  ],
+  HR: [
+    {
+      id: 2,
+      name: 'Jane',
+      department: 'HR',
+      salary: 45000,
+      age: 32,
+      active: true
+    }
+  ],
+  Finance: [
+    {
+      id: 4,
+      name: 'Alice',
+      department: 'Finance',
+      salary: 55000,
+      age: 29,
+      active: true
+    }
+  ]
+}
+{
+  IT: [
+    {
+      id: 1,
+      name: 'John',
+      department: 'IT',
+      salary: 50000,
+      age: 28,
+      active: true
+    },
+    {
+      id: 3,
+      name: 'Bob',
+      department: 'IT',
+      salary: 60000,
+      age: 35,
+      active: false
+    },
+    {
+      id: 5,
+      name: 'Charlie',
+      department: 'IT',
+      salary: 48000,
+      age: 26,
+      active: true
+    }
+  ],
+  HR: [
+    {
+      id: 2,
+      name: 'Jane',
+      department: 'HR',
+      salary: 45000,
+      age: 32,
+      active: true
+    }
+  ],
+  Finance: [
+    {
+      id: 4,
+      name: 'Alice',
+      department: 'Finance',
+      salary: 55000,
+      age: 29,
+      active: true
+    }
+  ]
+}
+
+70) count the strings?
+answer:-
+===========
+var name = "aaabbb";
+    let count = {}
+    for (const ch of name.toLowerCase()) {
+        if (count[ch]) {
+            count[ch] = count[ch] + 1
+        } else {
+            count[ch] = 1
+        }
+    }
+    console.log(count);
+
+71)
+var name = "i am from angular" // I need output I Am From Angular
+var res = name.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+console.log(res);
+
+72)
+
+  // closer example code
+
+    function outer() {
+        var num = 0;
+        return function inner() {
+            console.log(++num)
+        }
+    }
+    const count = outer();
+    count();
+    count();
+    count();
+    count();
+
+73) // destrucre in Objects
+    const Obj = {
+        name: "Angular",
+        exp: 5,
+        company: "genpact",
+        location: "bng"
+    }
+
+    const { name, exp } = Obj;
+    console.log(name, exp);
+
+74) // destrucure in Arrays
+	const arr = [1, 2, 3, 4, 5];
+	const [first, second, ...rest] = arr;
+	console.log(first, second, rest); // Output: 1 2 [3, 4, 5]
+
+75) // I need to get the last 3 elements in an array
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const lastThree = arr.slice(-3);
+console.log(lastThree); // Output: [8, 9, 10]
+
+76) // I need to get the first 3 elements in an array
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const firstThree = arr.slice(0, 3);
+console.log(firstThree); // Output: [1, 2, 3]
+
+77) const shoes = [
+        { name: "Shoe 1", price: 100 },
+        { name: "shoe 2", price: 200 },
+        { name: "shoe 3", price: 300 }
+    ];
+
+	    1) How can you extract all shoe names into a separate array?
+    const namesList = shoes.map(x => x.name);
+    console.log(namesList)
+
+	   2) How would you calculate the total price of all shoes?
+    const total = shoes.reduce((sum, shoe) => sum + shoe.price, 0);
+    console.log(total);
+
+
+    How can you find a shoe with price 200?
+    var findShoew = shoes.find(x => x.price === 200);
+    console.log(findShoew)
+
+    How do you filter out shoes with price > 150?
+    var findShoew = shoes.filter(x => x.price > 150);
+    console.log(findShoew)
+
+    How would you sort the array by price descending?
+    const findDesc = shoes.sort((a, b) => b.price - a.price);
+    console.log(findDesc);
+
+    How would you add a 10% discount to each shoe without mutating the original array?
+    const duplicateArray = JSON.parse(JSON.stringify(shoes));
+    const findPercentage = duplicateArray.map(x => ({
+        ...x,
+        price: x.price - x.price * 0.1
+    }));
+    console.log(findPercentage)
+
+    How would you group shoes by price range (e.g., <200 and >=200)?
+    const grouped = shoes.reduce((acc, shoe) => {
+        const key = shoe.price >= 200 ? 'expensive' : 'cheap';
+        (acc[key] = acc[key] || []).push(shoe);
+        return acc;
+    }, {});
+    console.log(grouped);
+
+    If this data came from an API, how would you validate that price is a number?
+    const validate = shoes.every(x => typeof (x.price) === 'number');
+    console.log(validate);
+
+    How would you update the price of "shoe 2" to 250?
+
+    updateShoe = shoes.filter(x => x.name === "shoe 2" ? x.price = 250 : x);
+    console.log(updateShoe)
+
+
+    How do you handle if one shoe doesn’t have a price field?
+    const safeTotal = shoes.reduce((sum, shoe) => sum + (shoe.price || 0), 0);
+    console.log(safeTotal)
+
+    How do you remove duplicates from the array (based on name)?
+    const removeduplicates = shoes.filter((shoe, index, self) =>
+        index === self.findIndex(s => s.name === shoe.name)
+    );
+    console.log(removeduplicates, 'removeduplicates');
+
+    find the averages of shoes prices list
+    const avg = shoes.reduce((sum, shoe) => sum + shoe.price, 0) / shoes.length;
+    console.log(avg, 'avg');
+
+	How would you convert the array into a single string of shoe names?
+	const shoeNamesString = shoes.map(shoe => shoe.name).join(', ');
+	console.log(shoeNamesString); // Output: "Shoe 1, shoe 2, shoe 3"
+
+
+78)  const employees = [
+        { name: "Amit", age: 29, salary: 50000, department: "Engineering" },
+        { name: "Neha", age: 32, salary: 47000, department: "Marketing" },
+        { name: "Ravi", age: 35, salary: 52000, department: "Sales" },
+        { name: "Kavita", age: 28, salary: 43000, department: "Design" },
+        { name: "Manish", age: 49, salary: 55000, department: "Finance" },
+        { name: "Sneha", age: 30, salary: 46000, department: "HR" },
+        { name: "Arun", age: 27, salary: 48000, department: "Support" },
+        { name: "Divya", age: 34, salary: 51000, department: "Engineering" }
+    ];
+
+
+    find the maximum salary for the above employees
+
+    let maxSalary = employees[0];
+
+    for (let i = 0; i < employees.length; i++) {
+        if (employees[i].salary > maxSalary.salary) {
+            maxSalary = employees[i];
+        }
+    }
+
+    console.log(maxSalary, 'maxSalary')
+
+    find the minimum salary for the above employees
+
+    let minSalary = employees[0];
+
+    for (let i = 0; i < employees.length; i++) {
+        if (employees[i].salary < minSalary.salary) {
+            minSalary = employees[i];
+        }
+    }
+
+    console.log(minSalary, 'minSalary');
+
+    // find the gropued lsit
+
+    let groupdData = {}
+    employees.forEach(emp => {
+        if (!groupdData[emp.department]) {
+            groupdData[emp.department] = [];
+        }
+        groupdData[emp.department].push(emp)
+    });
+
+    console.log(groupdData)
+
+    // How do you extract all employee names?
+    employees.map(emp => emp.name);
+
+    How do you find the average salary?
+    const avg = employees.reduce((sum, emp) => sum + emp.salary, 0) / employees.length;
+
+    How do you find employees from the Engineering department?
+    employees.filter(emp => emp.department === 'Engineering');
+
+    How do you find the employee with the highest salary?
+    employees.reduce((max, emp) => emp.salary > max.salary ? emp : max);
+
+
+    // Advanced Array Logic
+
+    How would you group employees by department?
+    employees.reduce((acc, emp) => {
+        (acc[emp.department] = acc[emp.department] || []).push(emp);
+        return acc;
+    }, {});
+
+    How do you sort employees by age in descending order?
+    [...employees].sort((a, b) => b.age - a.age);
+
+    How would you check if all employees have salary > 40,000?
+    employees.every(emp => emp.salary > 40000);
+
+    How do you count employees in each department?
+    employees.reduce((acc, emp) => {
+        acc[emp.department] = (acc[emp.department] || 0) + 1;
+        return acc;
+    }, {});
+
+    // Scenario-based / Practical Questions
+
+    How would you increase salary by 10% for employees under age 30?
+    employees.map(emp => emp.age < 30
+        ? { ...emp, salary: emp.salary * 1.10 }
+        : emp
+    );
+
+    How would you paginate this list (2 per page)?
+    function paginate(arr, page, size) {
+        return arr.slice((page - 1) * size, page * size);
+    }
+
+    How would you get the total salary by department?
+    employees.reduce((acc, emp) => {
+        acc[emp.department] = (acc[emp.department] || 0) + emp.salary;
+        return acc;
+    }, {});
+
+JavaScript + Architecture Concepts
+==========================================
+79) How would you memoize the total salary calculation?
+
+80) How do you ensure immutability while updating salary values?
+
+81) How do you handle large datasets with infinite scroll?
+
+82) How would you validate this data in a form (e.g., in Angular)?
+
+83) How would you connect this employee array to a REST API table grid (Angular Material / AG-Grid)?
+
+84) const user = {
+        val: 0,
+        increment: () =>  {
+            // setTimeout(() => {
+                this.val++;
+                console.log(this.val);
+            // }, 1000);
+        }
+    }
+
+    user.increment();
+    user.increment();
+
+    const obj = {
+        value: 20,
+        getValue:  () => {
+            setInterval(() => {
+                return ++this.value;
+            }, 1000);
+        }
+    };
+    console.log(obj.getValue())
+
+	85) 
+	var arr = [2, 3, 10] // I need missing the numbers in the array
+    var maxCountNumber = arr[arr.length - 1];
+    var missingNumbers = [];
+
+    for (let i = 1; i < maxCountNumber; i++) {
+        if (!arr.includes(i)) {
+            missingNumbers.push(i);
+        }
+    }
+
+    console.log(missingNumbers)
+
+	86) 
+	var arr = [1, 2, 3, 1];
+    var duplicate = [];
+
+    for (let i = 0; i < arr.length; i++) {
+        if (!duplicate.includes(arr[i]) && arr.indexOf(arr[i]) !== i) {
+            duplicate.push(arr[i]); //only duplicate numbers
+        }
+    }
+    console.log(duplicate, 'uniqueNums');
+
+	87) 
+	function getCarPrice(model) {
+        model = model.toLowerCase();
+        // if (model === 'swift') {
+        //     return 600000;
+        // } else if (model === 'creta') {
+        //     return 1000000;
+        // } else if (model === 'fortuner') {
+        //     return 4000000;
+        // } else if (model === 'xuv700') {
+        //     return 2200000;
+        // } else if (model === 'tiago') {
+        //     return 550000;
+        // } else {
+        //     return 'Model not found';
+        // }
+     
+
+        // belwo the process very less code
+
+         const user = {
+            'swift': 600000,
+            'creta': 1000000,
+            'fortuner': 4000000,
+            'xuv700': 2200000,
+            'tiago': 550000,
+        }
+        console.log(user[model])
+       
+    }
+
+    getCarPrice('fortuner');
+
+	88) 
+
+	const arr = [5, 12, 8, 20, 19];
+
+    let highest = -Infinity;
+    let secondHighest = -Infinity;
+
+    // for (let i = 0; i < arr.length; i++) {
+    //     let num = arr[i];
+
+    //     if (num > highest) {
+    //         secondHighest = highest;
+    //         highest = num;
+    //     } else if (num > secondHighest && num < highest) {
+    //         secondHighest = num;
+    //     }
+    // }
+
+    for (let i = 0; i < arr.length; i++) {
+        let num = arr[i];
+
+        if (num > highest) {
+            secondHighest = highest
+            highest = num;
+        } else if (num > secondHighest && num < highest) {
+            secondHighest = num;
+        }
+    }
+
+    console.log("2nd highest number:", secondHighest);
+
+
+	89) 
+
+	const users = {
+        frontendmaster: {},
+        rahul: {}
+    }
+
+    let name = 'constructor';
+
+    if (users[name]) {
+        console.log('BOSS');
+    } else {
+        console.log("else")
+        // some other logic
+    }
+
+    // what is the output why
+
+	90) var arr = [1, 3, 4, 8, 7, 9, 3, 5, 1]
+    var k = 2;  // I need find the diffrence between 2 numbers equal to 2 how can i
+    var res = [];
+
+    for (let i = 0; i < arr.length; i++) {
+        for (let j = 1; j < arr.length; j++) {
+            if (arr[i] - arr[j] === k) {
+                res.push([arr[i], arr[j]]);
+            }
+        }
+    }
+    console.log(res)
+
+ 91)  This is recurisive function example code 
+    var res = [];
+    function checkArray(arr) {
+      for(let i = 0; i<=arr.length-1;i++) {
+        if (Array.isArray(arr[i])) {
+            checkArray(arr[i]);
+        } else {
+            res.push(arr[i]);
+        }
+      }
+    }
+    checkArray([1,2,[3,4,[5,6]], 7,[8,9]]);
+    console.log(res);
+
+92) 
+// Given an array of employee objects, remove duplicates based on the 'id' property
+const employees = [
+    { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+    { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+  ];
+
+  // Remove duplicates based on 'id' property
+ var res = [];
+ employees.forEach((item) => {
+     if(!res.some(e => e.id === item.id)) {
+       res.push(item);
+     }
+ });
+ console.log(res);
+
+93) find the longest word in a string
+var name = "I am from Angular and I am learning JavaScript";
+var res = name.split(" ");
+var finalResp = res[0];
+for (let i = 0; i < res.length; i++) {
+   if(res[i].length > finalResp.length) {
+      finalResp = res[i];
+   }
+}
+console.log(finalResp); // Output: "JavaScript"
+
+94)
+
+What's the output of the code below - and why? ⬇
+
+const arr = [1, , 3];
+
+const result = arr.map((x) => x * 2);
+
+console.log(result);
+
+
+95) 
+const obj1 = { a: 1, b: 2 };
+const obj2 = { b: 3, c: 4 };
+
+how can I merge 2 objects
+
+
+96) oops concepts in JavaScript? with class and function oops concepts
+
+
+
+
+
+
+console.log(Object.is("1", 1));
+// Expected output: false
+
+console.log(Object.is(NaN, NaN));
+// Expected output: true
+
+console.log(Object.is(-0, 0));
+// Expected output: false
+
+const obj = {};
+console.log(Object.is(obj, {}));
+// Expected output: false
+
+// Case 1: Evaluation result is the same as using ===
+Object.is(25, 25); // true
+Object.is("foo", "foo"); // true
+Object.is("foo", "bar"); // false
+Object.is(null, null); // true
+Object.is(undefined, undefined); // true
+Object.is(window, window); // true
+Object.is([], []); // false
+const foo = { a: 1 };
+const bar = { a: 1 };
+const sameFoo = foo;
+Object.is(foo, foo); // true
+Object.is(foo, bar); // false
+Object.is(foo, sameFoo); // true
+
+// Case 2: Signed zero
+Object.is(0, -0); // false
+Object.is(+0, -0); // false
+Object.is(-0, -0); // true
+
+// Case 3: NaN
+Object.is(NaN, 0 / 0); // true
+Object.is(NaN, Number.NaN); // true
+
+const num = 0;
+const obj1 = new String("0");
+const str = "0";
+
+console.log(num === num); // true
+console.log(obj1 === obj1); // true
+console.log(str === str); // true
+
+console.log(num === obj1); // false
+console.log(num === str); // false
+console.log(obj1 === str); // false
+console.log(null === undefined); // false
+console.log(obj1 === null); // false
+console.log(obj1 === undefined); // false
+
+console.log([NaN].indexOf(NaN)); // -1
+switch (NaN) {
+    case NaN:
+        console.log("Surprise"); // Nothing is logged
+}
+
+const num1 = 0;
+const big = 0n;
+const str1 = "0";
+const obj2 = new String("0");
+
+console.log(num1 == str1); // true
+console.log(big == num1); // true
+console.log(str1 == big); // true
+
+console.log(num1 == obj2); // true
+console.log(big == obj2); // true
+console.log(str1 == obj2); // true
+
+function testHoisting() {
+    console.log(a);
+    console.log(b);
+    var a = 10;
+    let b = 20;
+    console.log(c());
+    function c() {
+        return "Hello from c!";
+    }
+    var c = function () {
+        return "Goodbye from c!";
+    };
+}
+testHoisting();
+
+
+
+
+
+
+  if (finalResp.length) {
+    console.log('test')
+    count = 0;
+    for (let i = 0; i < res.length; i++) {
+      if (+res[i] !== NaN) {
+        count += res[i];
+        console.log(count);
+      } else if (typeof res[i] === 'object') {
+        console.log(res[i])
+      }
+    }
+  }
+============================================================================================================
+https://www.youtube.com/watch?v=LyH58f5xWn8&ab_channel=FEDLearning
+
+============================================================================================================
+
+console.log("1");
+setTimeout(() => console.log("2"), 0);
+Promise.resolve()
+.then(() => console.log("3"))
+.catch(() => console.log("4"))
+.finally(() => console.log("5"))
+Promise.reject()
+.then(() => console.log("6"))
+.catch(() => console.log("7"))
+.finally(() => console.log("8"));
+setTimeout(() => console.log("9"), 0);
+console.log("10");
+
+530px< width<930px
+ 
+
+Define 3div (div1, div2 and div3) below 3 div define 3 button(12px, 14px and 16px).
+
+work of buttons is to change the font-size.
+ 
+
+<div id="div1">
+  Main Div
+</div>
+ 
+ 
+<div id="div2">
+   Div2
+</div>
+ 
+<div id="div3">
+  Div3
+</div>
+ 
+document.getElementById('div1', addEventListener(), 'click') => {
+     div.style.fontSsize = 12px;
+     
+})
+
+console.log("1");
+setTimeout(() => console.log("2"), 0);
+Promise.resolve()
+.then(() => console.log("3"))
+.catch(() => console.log("4"))
+.finally(() => console.log("5"))
+Promise.reject()
+.then(() => console.log("6"))
+.catch(() => console.log("7"))
+.finally(() => console.log("8"));
+setTimeout(() => console.log("9"), 0);
+console.log("10");
+
+
+Write a function for sum(1)(2)(3)(4)() which will return output as 10
+
+async function getFn(){
+  await console.log("hello");
+  console.log("world");
+}
+
+
+ function outer() {
+   let count = 10;
+    return function inner() {
+      console.log(count)
+      // return ++count;
+    }
+ }
+ 
+ let myCount = outer();
+ outer.count = 22;
+ console.log(myCount())
+
+
+ async function getFn(){
+  await console.log("hello");
+  console.log("world");
+}
+
+web vitals
+
+deboiunce(this.myOwnFunctioon())
+ 
+myOwnFunctioon() {
+   setTimeout(() => {
+      return result;
+   },1000)
+}
+
+multicasting Observables in angular
+
+==============================================================================================================
+console.log(typeof null);
+ 
+let a = 1;  
+
+let b = 0;  
+
+while (a <= 3)  
+
+{  
+
+   a++;  
+
+   b += a * 2;  4 
+
+   console.log(b);
+
+}
+ 
+ 
+const nums = [1,2,3,4,5,6,7];
+
+nums.forEach((n) => {
+
+    if(n%2 === 0) 
+
+      break;
+
+    console.log(n);
+
+});
+ 
+ 
+let a = true + true + true * 3;
+ 
+let a = [1, 2, 3, 4, 5];
+
+console.log(a.slice(2, 4));
+
+ 
+const arr = ['A', 'N', 'U'];
+
+arr[10] = 10;
+
+console.log(arr.length);
+
+ 
+isNaN(true)
+ 
+===========================================================================================================
+ hr-india@charterglobaltechnologies.com
+ https://www.linkedin.com/in/vaishnavi-k-r-6b05aa24a/
+ www.youtube.com/watch?v=ItQYxGDacW4&t=400s&ab_channel=NihiraTechiees
+ 1) https://www.udemy.com/course/ai-python-angular-object-recognition-app/?couponCode=24T4MT180225
+
+2) https://www.udemy.com/course/auto-code-generator-angular-and-net-core-web-api/
+
+3) https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=24T4MT180225
+
+4) https://www.udemy.com/courses/search/?p=2&q=angular+integration+AI&src=ukw
+===========================================================================================================
+<script>
+    const employees = [
+        { name: "Amit", age: 29, salary: 50000, department: "Engineering" },
+        { name: "Neha", age: 32, salary: 47000, department: "Marketing" },
+        { name: "Ravi", age: 35, salary: 52000, department: "Sales" },
+        { name: "Kavita", age: 28, salary: 43000, department: "Design" },
+        { name: "Manish", age: 49, salary: 55000, department: "Finance" },
+        { name: "Sneha", age: 30, salary: 46000, department: "HR" },
+        { name: "Arun", age: 27, salary: 48000, department: "Support" },
+        { name: "Divya", age: 34, salary: 51000, department: "Engineering" }
+    ];
+
+    // let maxSalary = employees[0];
+
+    // for (let i = 0; i < employees.length; i++) {
+    //         if (employees[i].salary > maxSalary.salary ) {
+    //             maxSalary = employees[i];
+    //         }
+    // }
+    // console.log(maxSalary)
+
+    // let age = 0;
+
+    // const sumOfAge = employees
+    // .map(empAge => empAge.age)
+    // .filter(findAge => findAge.age !==0)
+    // .reduce((sum, Age) => sum + Age, 0);
+    // console.log(sumOfAge)
+
+    const findLenthOfages = employees.map(x => x.name.length);
+    console.log(findLenthOfages);
+
+    let a = 13;
+    let b = 8
+
+    a = a + b;
+    b = a - b;
+    a = a - b
+    console.log(a, b)
+v cx ynn bg  ,f
+    // const data = employees.filter((x) => {
+    //     return x.age % 2 !== 0;
+    // });
+    // sumAge = 0;
+    // data.forEach((Obj) => {
+    //     sumAge += Obj.age;
+    // });
+    // console.log(sumAge, 'sumAge')
+
+    // console.log(data)
+
+    // newEmp= [];
+    //  employees.forEach(x =>  {
+    //     newEmp.push(x.name.length)
+    //  });
+
+    //  console.log(newEmp)
+
+    let  maxSalary = employees[0];
+
+    for (let i = 0; i < employees.length; i++) {
+        if (employees[i].salary > maxSalary.salary) {
+            maxSalary = employees[i];
+        }
+    }
+    console.log(maxSalary)
+     
+</script>
+==============================================================================================================
+1) how to bypass the HttpInterceptor in Angular writing the code
+2) address: { name, street, city }; these fields I need reactive form what is the diffrence between 
+template driven forms and reactive forms?
+3) what is lazyloading how to write the lazy loading?
+4) tild and charat diffrence between in package.json
+5) suppose I have implemented custom library that is angular 14 so that is support for angular 18th versions
+and same as opposite
+6) how to comminicate 2 components?
+7) what is viewchild and viewchildren
+8) how to implement routings in angular 18
+
+
+Javascript:-
+================
+1) what is javascript hosting
+2) what anonomous functions in javascript
+3) what is setTimeout in javascript?
+	setTimeout(() =>{
+	  for(let i = 1; i<=5; i++) {
+		console.log(i);
+	  }
+	}, 1000);
+	
+4)	what is the above code output?
+		setTimeout(() =>{
+	  for(var i = 1; i<=5; i++) {
+		console.log(i);
+	  }
+	}, 1000);
+5)	what is the above code output?
+
+6) what is meany by event bubling and capturing in javascript write the code?
+7) what is mean by eventpreventdefault and eventstoppropogation in javascript?
+8) what is es6 consepts in javascript
+9) what is spread and rest operators in javascript
+10)   var Obj = {
+	     name: "srinivas"
+		 getFullName: () =>  {
+		   return this.Obj1;
+		 }
+	   }
+	  
+	   
+	   var Obj1 = "vasim"
+	   
+	   what is the output 
+
+11) what is synthatic events in javascript
+==============================================================================================================
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

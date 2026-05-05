@@ -1,0 +1,726 @@
+<script>
+    const array = ['apple', 'banana', 'cherry'];
+    for (let i = 0; i < array.length; i++) {
+        const element = array[i];
+        console.log(element);
+    }
+
+    array.forEach((element) => {
+        console.log(element);
+    });
+</script>
+
+<!-- 9502194132 (Mobile) -->
+
+
+sharmila@liveconnections.in
+
+👏
+👍
+😊
+
+
+
+6369006832
+
+================================================================================================================
+
+<div class="main_div">
+    <div class="div1">
+        I am from Div 1
+    </div>
+
+    <div class="div2">
+        I am from Div 2
+    </div>
+</div>
+<style>
+    .main_div.div1 {
+        padding: 0;
+        border: 1px solid red;
+        width: auto;
+        position: absolute;
+    }
+
+    .main_div.div2 {
+        padding: 0;
+        border: 1px solid green;
+        width: auto;
+        bottom: 20px;
+        right: 30px;
+    }
+</style>
+
+<input type="text" id="searchName" name="searchName" />
+
+<script>
+    // var i = 1;
+    // var a = function () {
+    //     var i = 5;
+    //     console.log(i);
+    //     var i = 2;
+    //     var b = function () {
+    //         var i = 5;
+    //         console.log(i);
+    //         i = 1;
+    //     }
+    //     b();
+    //     console.log(i)
+    // }
+    // a()
+    // console.log(i)
+
+    // let x = [1, 2, 3];
+    // let y = [1, 2, 3];
+    // let z = y;
+    // console.log(x == y) // false
+    // console.log(x === y) //false
+    // console.log(z == y)  // true
+    // console.log(z === y) // true
+
+    // function simpleWordBreak(s1, s2) {
+    //     let temp = s1;
+    //     for (const word of s2) {
+    //         temp = temp.split(word).join("");
+    //     }
+    //     return temp.length === 0;
+    // }
+
+    // console.log(simpleWordBreak("leetcode", ["leet", "code"])); // true
+    // console.log(simpleWordBreak("applepenapple", ["apple", "pen"])); // true
+    // console.log(simpleWordBreak("catsandog", ["cats", "dog", "sand", "and", "cat"])); // false
+
+    // let str = 'w3q2s3ddefh2d';
+    // let resp = '';
+    // for (let i = 0; i < str.length; i++) {
+    //     let char =  str[i];
+    //     let count = str[i+1];
+    //     resp +=  char.repeat(count);
+    // }
+    // console.log(resp)
+
+    // var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
+    // let k = 3;
+    // let firstCount = arr.length - k;
+    // let resp = [...arr.slice(-k), ...arr.splice(0, firstCount)];
+    // console.log(resp)
+
+
+    // let sum = a=> b=> b? sum(a+b): a;
+
+    // const b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+    // for (let i = 0; i < 10; i++) {
+    //     setTimeout(() => {
+    //         console.log(i)
+    //         console.log(b[i])
+    //     }, 0);
+    // }
+
+
+    // for (var i = 0; i < 10; i++) {
+    //     setTimeout(() => {
+    //         console.log(i)
+    //         console.log(b[i])
+    //     }, 0);
+    // }
+
+    // let data = [1, 2, 0, 3, 0];
+    // let res = [];
+    // let zeroCount = 0;
+    // for (let i = 0; i < data.length; i++) {
+    //     if (data[i] > 0) {
+    //         res.push(data[i])
+    //     } else {
+    //          zeroCount++
+    //     }
+    // }
+
+    // for (let i = 0; i < zeroCount; i++) {
+    //     res.push(0);
+    // }
+    // console.log(res);
+
+
+    // let data = [1, -2, -4, -3, 5, 6];
+    // let res =  [];
+    // let posIndex = 1;
+    // let negIndex = 0;
+
+    // for (let i = 0; i < data.length; i++) {
+    //     if (data[i] > 0) {
+    //         res[negIndex] = data[i];
+    //         negIndex += 2
+    //     } else {
+    //         res[posIndex] = data[i];
+    //         posIndex += 2
+    //     }
+    // }
+
+    // console.log(res)
+
+
+    // var flat = function (arr, n) {
+    //     let result = [];
+
+    //     function dfs(current, depth) {
+    //         for (let item of current) {
+    //             if (Array.isArray(item) && depth < n) {
+    //                 // flatten this array
+    //                 dfs(item, depth + 1);
+    //             } else {
+    //                 result.push(item);
+    //             }
+    //         }
+    //     }
+
+    //     dfs(arr, 0);
+    //     return result;
+    // };
+
+    // let dataArr = [1, 2, 3, [4, 5, 6], [7, 8, [9, 10, 11], 12], [13, 14, 15]];
+    // let res = [];
+    // let n = 0;
+
+    // function recursiveFn(arr, depth) {
+    //     for (let i = 0; i < arr.length; i++) {
+    //         let item = arr[i];
+
+    //         if (Array.isArray(item) && depth < n) {
+    //             // Flatten one level deeper
+    //             recursiveFn(item, depth + 1);
+    //         } else {
+    //             res.push(item);
+    //         }
+    //     }
+    // }
+
+    // recursiveFn(dataArr, 0);
+    // console.log(res);
+
+
+    // let data = [1, 2, 3, 4, 5, 6, 7];
+    // let temp = [];
+    // let res = [];
+    // for (let i = 0; i < data.length; i++) {
+    //     temp.push(data[i])
+    //     if (temp.length === 3) {
+    //         res.push(temp);
+    //         temp = [];
+    //     }
+    // }
+
+    // if(temp.length > 0) {
+    //     res.push(temp);
+    // }
+    // console.log(res);
+
+    // let data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    // let res = [];
+    // for (let i = 0; i < data.length; i += 3) {
+    //     res.push(data.slice(i, i + 3));
+    // }
+    // console.log(res);
+
+    // let data = [1, 3, 2, 2, 4, 5, -1]; // Output: [ [3, 1], [2, 2], [5, -1] ]
+    // let k = 4;
+    // let res = [];
+    // for (let i = 0; i < data.length; i++) {
+    //     for (let j = i + 1; j < data.length; j++) {
+    //         if (data[i] + data[j] === k) {
+    //             res.push([data[i], data[j]])
+    //         }
+    //     }
+    // }
+    // console.log(res)
+
+
+    // let a = [
+    //     { id: 1, name: "test" },
+    //     { id: 2, name: "test1" },
+    //     { id: 3, name: "test2" },
+    //     { id: 4, name: "test3" },
+    //     { id: 5, name: "test4" }
+    // ]
+
+    // let b = [
+    //     { id: 2, age: 23 },
+    //     { id: 3, age: 40 },
+    //     { id: 4, age: 60 },
+    //     { id: 5, age: 70 }
+
+    // ]
+
+    // for (let i = 0; i < b.length; i++) {
+    //     if (a[i + 1].id === b[i]?.id) {
+    //         a[i + 1]['age'] = b[i]?.age;
+    //     }
+    // }
+    // console.log(a);
+
+    // // expected Result:-
+    // [
+    //     { "id": 1, "name": "test" },
+    //     { "id": 2, "name": "test1", "age": 23 },
+    //     { "id": 3, "name": "test2", "age": 40 },
+    //     { "id": 4, "name": "test3", "age": 60 },
+    //     { "id": 5, "name": "test4", "age": 70 }
+    // ]
+
+
+    // let a = [
+    //     { id: 1, name: "test" },
+    //     { id: 2, name: "test1" },
+    //     { id: 3, name: "test2" },
+    //     { id: 4, name: "test3" },
+    //     { id: 5, name: "test4" }
+    // ]
+
+    // let b = [
+    //     { id: 2, age: 23 },
+    //     { id: 3, age: 40 },
+    //     { id: 4, age: 60 },
+    //     { id: 5, age: 70 }
+    // ]
+
+    // for (let i = 0; i < a.length; i++) {
+    //     for (let j = 0; j < b.length; j++) {
+    //         if (a[i].id === b[j].id) {
+    //             a[i] = { ...a[i], ...b[j] }
+    //         }
+    //     }
+    // }
+
+
+    // console.log(a);
+
+    //  let total = initialValue;
+
+    //     const obj = {
+    //         sum(nextValue = 0) {
+    //             total += nextValue;
+    //             return obj; // return the same object for chaining
+    //         },
+    //         get value() {
+    //             return total;
+    //         }
+    //     };
+
+    //     return obj;
+
+
+    // function sum(initialValue = 0) {
+    //     let total = initialValue;
+
+    //     const Obj = {
+    //         sum(nextValue = 0) {
+    //             total += nextValue;
+    //             return Obj; // return the same object for chaining
+    //         },
+    //         get value() {
+    //             return total;
+    //         }
+    //     }
+    //     return Obj;
+    // }
+
+
+    // console.log(sum(10).sum(20).sum(30).value); // 60
+    // console.log(sum(5).sum(15).sum(25).sum(55).value); // 100
+
+    // let data = [1, 2, 3, 4, 5, 6, 7];
+    // let temp = [];
+    // let res = [];
+    // for (let i = 0; i < data.length; i++) {
+    //     temp.push(data[i]);
+    //     if (temp.length === 3) {
+    //         res.push(temp);
+    //         temp = [];
+    //     }
+    // }
+    // if (temp.length > 0) {
+    //     res.push(temp);
+    // }
+    // console.log(res)
+
+
+    // let aob =
+    //     [
+    //         { framework: 'React.JS', website: 'Paypal' },
+    //         { framework: 'React.JS', website: 'Tesla' },
+    //         { framework: 'Angular', website: 'Google' },
+    //         { framework: 'Vue.JS', website: 'Vue' },
+    //         { framework: 'JavaScript', website: 'inblack67' },
+    //     ];
+
+    // let counts = [];
+    // let res = {}
+
+    // for (let i = 0; i < aob.length; i++) {
+    //     const framework = aob[i].framework;
+    //     if (!res[framework]) {
+    //         res[framework] = { victim: framework, count: 1 }
+    //         counts.push(res[framework])
+    //     } else {
+    //         res[framework].count++;
+    //     }
+    // }
+    // console.log(counts);
+
+
+    // var Obj = {
+    //     name: "srinivas",
+    // 	 getFullName: () => {
+    //         return this.Obj1;
+    //     }
+    // }
+
+    // var Obj1 = "vasim"
+    // console.log(Obj.getFullName())
+
+
+    // function deounceTime(fn, d) {
+    //     let timer = 0;
+    //     return function (...args) {
+    //         setTimeout(() => {
+    //             fn.apply(this.args);
+    //         }, d);
+    //     }
+    // }
+
+    // function getData() {
+    //     const value = document.getElementById('searchName').value;
+    //     console.clear();
+    //     console.log(value)
+    // }
+
+    // const debounceLogsData = deounceTime(getData, 1000)
+    // document.getElementById('searchName').addEventListener('keyup', debounceLogsData)
+
+
+    // const queryString = "name='srinivas',age='25',city='gdk',mobile='123456789'";
+    // let Obj = {}
+    // let findObj = queryString.split(",");
+
+    // for (let i = 0; i < findObj.length; i++) {
+    //     let [key, value] = findObj[i].split("=");
+    //     value = value.replace(/'/g, "");
+    //     Obj[key] = !isNaN(value) ? +value : value;
+    // }
+    // console.log(Obj)
+
+
+    // let str = "thisIsATest";
+    // let res = '';
+    // for (let i = 0; i < str.length; i++) {
+    //     if (str[i] === str[i].toUpperCase() && i !== 0) {
+    //         res += '_';
+    //     }
+    //     res += str[i];
+    // }
+    // res = res[0].toUpperCase() + res.slice(1);
+    // console.log(res.split("_").join(" "))
+
+    // This Is A Test
+
+    // let str = 'i am from angular developer';
+    // str = str.split(" ").map(val  => val.split('').reverse().join("")).join(" ");
+    // console.log(str)
+
+
+    // console.log("1");
+    // setTimeout(() => console.log("2"), 0);
+    // Promise.resolve()
+    //     .then(() => console.log("3"))
+    //     .catch(() => console.log("4"))
+    //     .finally(() => console.log("5"))
+    // Promise.reject()
+    //     .then(() => console.log("6"))
+    //     .catch(() => console.log("7"))
+    //     .finally(() => console.log("8"));
+    // setTimeout(() => console.log("9"), 0);
+    // console.log("10"); 
+
+
+    // 1,10,3,7,5,8,2,9
+
+
+    // let res = {}
+    // function countWords(str) {
+    //     let fArr = str.split(" ");
+    //     for (const obj of fArr) {
+    //         res[obj] = (res[obj] || 0) + 1;
+    //     }
+    //     console.log(res)
+    // }
+
+    // countWords("hello world hello")
+
+    //     const employees = [
+    //         { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    //         { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    //         { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    //         { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    //         { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    //         { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    //         { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+    //         { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+    //     ];
+
+    //     let res = [];
+    //     let maxSalary = -Infinity;
+    //     let minSalary = Infinity;
+
+    //     employees.forEach(emp => {
+
+    //         // push only first unique id
+    //         if (!res.some(e => e.id === emp.id)) {
+    //             res.push(emp);
+
+    //             const { active, ...empObj } = emp;  // remove active
+
+    //             if (empObj.salary > maxSalary) {
+    //                 maxSalary = empObj.salary;
+    //             }
+
+    //             if (empObj.salary < minSalary) {
+    //                 minSalary = empObj.salary;
+    //             }
+    //         }
+    //     });
+
+    // console.log("Max:", maxSalary, "Min:", minSalary);
+
+
+    // ([1, 3, 2, 2, 4, 5, -1], 4)); // Output: [ [3, 1], [2, 2], [5, -1] ]
+    // let arr = [1, 3, 2, 2, 4, 5, -1];
+    // let k = 4;
+    // let resp = [];
+    // for (let i = 0; i < arr.length; i++) {
+    //     if (arr[i + 1] + arr[i] === k) {
+    //         resp.push([arr[i + 1], arr[i]])
+    //     }
+    // }
+    // console.log(resp)
+
+
+    // const path = 'data.results.status';
+    // const Obj = {
+    //     data: {
+    //         results: {
+    //             status: 'completed'
+    //         },
+    //         error: {
+    //             code: 404,
+    //             message: 'Not Found'
+    //         }
+    //     }
+    // };
+
+    // let value = Obj;
+    // const keys = path.split('.');
+    // for (let i = 0; i < keys.length; i++) {
+    //     value = value[keys[i]];
+    // }
+    // console.log(value);
+
+    // var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    // let k = 3;
+    // let firtsCount = arr.length - k;
+    // let resp = [...arr.slice(-k), ...arr.splice(0, firtsCount)];
+    // console.log(resp);
+    // let res = [];
+    // for (let i = 0; i < arr.length; i+= 3) {
+    //     res.push(arr.slice(i, i + 3));
+    // }
+    // console.log(res);
+
+    //    document.getElementById('searchName').addEventListener('keyup', function debounce(fn, delay) {
+    //         let timer;
+    //         return function (...args) {
+    //             clearTimeout(timer);
+    //             timer = setTimeout(() => {
+    //                 fn.apply(this, args);
+    //             }, delay);
+    //         }
+    //     }(function getData() {
+    //         const value = document.getElementById('searchName').value;
+    //         console.clear();
+    //         console.log(value)
+    //     }, 1000));
+
+
+    // let aob =
+    //     [
+    //         { framework: 'React.JS', website: 'Paypal' },
+    //         { framework: 'React.JS', website: 'Tesla' },
+    //         { framework: 'Angular', website: 'Google' },
+    //         { framework: 'Vue.JS', website: 'Vue' },
+    //         { framework: 'JavaScript', website: 'inblack67' },
+    //     ];
+
+    //     let counts = [];
+    //     let res = {};
+    //     for (let i = 0; i < aob.length; i++) {
+    //          let framework = aob[i].framework;
+    //          if (!res[framework]) {
+    //             res[framework] = {victim: framework, count: 1}
+    //             counts.push(res[framework]);
+    //          } else {
+    //             res[framework].count++;
+    //          }
+    //     }
+    //     console.log(counts)
+
+
+
+
+    // const employees = [
+    //     { id: 1, name: 'John', department: 'IT', salary: 50000, age: 28, active: true },
+    //     { id: 2, name: 'Jane', department: 'HR', salary: 45000, age: 32, active: true },
+    //     { id: 3, name: 'Bob', department: 'IT', salary: 60000, age: 35, active: false },
+    //     { id: 4, name: 'Alice', department: 'Finance', salary: 55000, age: 29, active: true },
+    //     { id: 5, name: 'Charlie', department: 'IT', salary: 48000, age: 26, active: true }
+    // ];
+
+    // let res = {}
+    // let maxSalary = -Infinity;
+    // let minSalary = Infinity;
+    // for (let i = 0; i < employees.length; i++) {
+    //     if (employees[i].salary > maxSalary) {
+    //         maxSalary = employees[i].salary;
+    //     } else if (employees[i].salary < minSalary) {
+    //         minSalary = employees[i].salary;
+    //     }
+    // }
+    // console.log(maxSalary)
+    // console.log(minSalary)
+
+
+    // let str = 'w3q2s3ddefh2d';
+    // let res = '';
+    // for (let i = 0; i < str.length; i++) {
+    //     let char = str[i];
+    //     let count = str[i + 1];
+    //     if (!isNaN(count)) {
+    //         res += char.repeat(count) + count;
+    //         i++;
+    //     }
+    // }
+    // console.log(res)
+
+    // let data = [1, -2, -4, -3, 5, 6];
+    // let res = [];
+    // let negIndex = 0;
+    // let posIndex = 1;
+    // for (let i = 0; i < data.length; i++) {
+    //     if (data[i] > 0) {
+    //         res[negIndex] = data[i];
+    //         negIndex += 2;
+    //     } else {
+    //         res[posIndex] = data[i];
+    //         posIndex += 2;
+    //     }
+    // }
+    // console.log(res)
+
+    // let n = 1;
+    // for (let i = 1; i <= 5; i++) {
+    //     let res = [];
+    //     for (let j = 1; j <= i; j++) {
+    //         res.push(n);
+    //         n++
+    //     }
+    //     console.log(res.join(" "))
+    // }
+
+
+    // function sum(initialValue = 0) {
+    //     let total = initialValue;
+    //     const Obj = {
+    //         sum(nextValue = 0) {
+    //             total += nextValue
+    //             return Obj;
+    //         },
+    //         get value() {
+    //             return total;
+    //         }
+    //     }
+    //     return Obj;
+    // }
+
+    // console.log(sum(10).sum(20).sum(30).value); // 60
+    // console.log(sum(5).sum(15).sum(25).sum(55).value); // 100
+
+    // let str = 'i am from angular developer';
+    // let res = str.split(" ");
+    // let resp = '';
+    // for (let i = 0; i < res.length; i++) {
+    //     let word = res[i];
+    //     let rev = ""
+    //     for (let j = word.length - 1; j >= 0; j--) {
+    //         rev += word[j];
+    //     }
+
+    //     resp += " " + rev;
+    // }
+    // console.log(resp);
+
+    // function test(arr) {
+    //     let min = Infinity;
+    //     let max = -Infinity;
+
+    //     for (let i = 0; i < arr.length; i++) {
+    //         let num = arr[i];
+
+    //         if (num < min) {
+    //             min = num;
+    //         }
+    //         else if (num > max) {
+    //             max = num;
+    //         }
+    //     }
+
+    //     return { min, max };
+    // }
+
+    // console.log(test([2, 9, 15, 7, 8]));   // { first: 2, second: 7 }
+    // console.log(test([2, 4, 1, 2, 1]));    // { first: 1, second: 2 }
+
+
+
+    let arr = [1, 1, 0, 1, 1, 1];
+
+    let maxCount = 0;
+    let currentCount = 1;
+
+     for (let i = 0; i < arr.length; i++) {
+         if (arr[i] === arr[i - 1]) {
+            currentCount++
+         } else {
+            currentCount = 1;
+         }
+        maxCount = Math.max(maxCount, currentCount)
+     }
+     console.log(currentCount)
+
+
+
+    // var number = "1234567890";
+    // const reaprStr = "*".repeat(number.split('').slice(0, 6).length);
+    // console.log(reaprStr + number.split('').slice(-3).join(''));
+
+    // const gmail = "angular4srinivas@gmail.com" // an....@gm...com
+
+    // const part1 = gmail.split('@')[0].split('').slice(0, 2).join('');
+    // const part2 = gmail.split('@')[1].split('').slice(0, 2).join('');
+    // const part3 = gmail.split('@')[1].split('').slice(-3).join('');
+
+    // const fres = part1 + '*'.repeat(gmail.split('@')[0].split('').length) + '@' + part2 + '*'.repeat(gmail.split('@')[1].split('').length) + '.' + part3
+    // console.log(fres);
+
+</script>
+
+
+
+8197212717

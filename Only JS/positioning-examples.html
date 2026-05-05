@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>CSS Positioning: relative vs absolute (demo)</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 20px;
+            color: #222
+        }
+
+        h1 {
+            margin-bottom: 6px
+        }
+
+        .note {
+            color: #555;
+            margin-bottom: 18px
+        }
+
+        /* Example 1: parent with position:relative and child absolute */
+        .example {
+            margin-bottom: 26px
+        }
+
+        .parent {
+            position: relative;
+            width: 340px;
+            height: 160px;
+            background: #eef;
+            border: 1px solid #99c;
+            padding: 12px
+        }
+
+        .parent .label {
+            font-weight: 700;
+            font-size: 14px;
+            color: #123
+        }
+
+        .child {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background: #ffd;
+            border: 1px solid #cc9;
+            padding: 8px
+        }
+        </style>
+
+</head>
+<body>  
+
+    <div class="note">Simple, interview-friendly demo. Open this file in your browser to see behavior.</div>
+    <h1>CSS Positioning: relative vs absolute</h1>
+    <div class="example">
+        <div class="parent" style="position:relative">
+            <div class="child" style="position:absolute; top:12px; right:12px">Child (position: absolute; top:12px; right:12px)</div>
+            <div class="label">Parent (position: relative)</div>
+        </div>
+        <p class="note">Explanation: the child is removed from normal flow and placed relative to the parent because the parent is positioned.</p>
+        <h2>1) Parent with <code>position: relative</code> & child <code>position: absolute</code></h2>
+    </div>
+    <div class="example">
+        <div class="container">
+            <div class="child-viewport" style="position:absolute; top:32px; left:32px">Child (position:absolute; top:32px; left:32px)</div>
+            Container (no positioning)
+        </div>
+        <p class="note">If no ancestor has a non-static position, the absolutely positioned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </html></body>Start-Process "d:\\Angular Some Times Practice\\positioning-examples.html" </pre># or <pre>ii "d:\\Angular Some Times Practice\\positioning-examples.html" <p style="font-size:13px;color:#666">How to open this file (PowerShell):</p><hr></section></div>Quick memory tip: <em>"Relative reserves space & nudges; absolute removes space & places exactly." </em>n <div class="tip"></ul><li><strong>Senior:</strong>"Set <code>position: relative</code> on a container to create a positioning context for absolutely positioned children; otherwise absolute elements are positioned relative to the viewport." </li><li><strong>Mid:</strong>"An absolutely positioned element is removed from document flow and positioned relative to its nearest positioned ancestor; <code>relative</code> keeps the element in-flow and applies visual offsets." </li><li><strong>Junior:</strong>"Use <code>relative</code> to nudge an element while keeping its space; use <code>absolute</code> to place it exactly where you want without affecting other elements." </li><ul><h2>Interview-ready one-liners</h2><section></section> // absolute: element is taken out of layout and placed at exact coords</pre>    <pre>// relative: element remains in layout flow; offsets are visual only    </div>      <span class="nudge">Normal</span>      <span class="nudge relative">Relative (top:12px,left:8px)</span>      <span class="nudge">Normal</span>    <div>    <p class="note">Relative moves the element visually but its original space remains reserved.</p>    <h2>3) <code>position: relative</code> for small nudges (stays in flow)</h2>  <section class="example">  </section></pre>&lt;/div&gt;  <!-- child positioned from the page/viewport -->  &lt;/div&gt;  &lt;div class="child-viewport" style="position:absolute; top:32px; left:32px"&gt;...    <pre>&lt;div class="container"&gt;    </div>      <div class="child-viewport">Child (position:absolute; top:32px; left:32px)</div>      Container (no positioning)    <div class="container">    <p class="note">If no ancestor has a non-static position, the absolutely positioned element uses the page (root/viewport) as the reference.</p>    <h2>2) Absolute without a positioned ancestor (positions relative to viewport/page)</h2>  <section class="example">  </section>&lt;/div&gt;</pre>  &lt;div class="child" style="position:absolute; top:12px; right:12px"&gt;...&lt;/div&gt;    <pre>&lt;div class="parent" style="position:relative"&gt;    </div>      <div class="child">Child (position: absolute; top:12px; right:12px)</div>      <div class="label">Parent (position: relative)</div>    <div class="parent">    <p class="note">Explanation: the child is removed from normal flow and placed relative to the parent because the parent is positioned.</p>    <h2>1) Parent with <code>position: relative</code> & child <code>position: absolute</code></h2>  <section class="example">  <div class="note">Simple, interview-friendly demo. Open this file in your browser to see behavior.</div>  <h1>CSS Positioning: relative vs absolute</h1><body></head>  
+    </style> .tip { margin-top:12px; color:#333 }
+    n pre { background:#111; color:#e6e6e6; padding:10px; overflow:auto } .nudge.relative { position: relative;
+    top:12px; left:8px } .nudge { display:inline-block; margin:6px; padding:8px; background:#f4f4f8; border:1px solid
+    #ddd }
+    n /* Example 3: relative nudging (stays in flow) */ .child-viewport { position: absolute; top:32px; left:32px;
+    background:#fdd; border:1px solid #c99; padding:8px } .container { height:150px; background:#efe; border:1px solid
+    #9c9; padding:12px; margin-top:8px }n /* Example 2: absolute without a positioned ancestor -> positioned relative to
+    viewport (document) */

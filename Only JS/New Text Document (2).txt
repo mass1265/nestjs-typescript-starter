@@ -1,0 +1,30 @@
+I need to Apply below platforms Only:--
+========================================
+3) https://www.naukrigulf.com/
+
+
+MyTargets:--
+==> Jan Month Fully I need to complete responsive design with Bootstrap 
+
+==> I need to get the Knowledge of fully Typescript and Javascript.
+
+
+1) Javascript Videos
+2) HTML5, CSS3, Bootstrap 4,5
+3) NodeJS WIth ExpressJS and MySQL, MongoDB with AI
+4) with AWS Microservices Architecture 
+5) Nestjs With MySQL and MongoDB with AI 
+6) communication skills
+7) Java with springboot 
+
+
+
+mail id: srinivastempjavascript@gmail.com
+password: Srinivas@123
+
+=======================================================================
+
+Imp URL'S
+===========================
+1) https://www.youtube.com/watch?v=rOr1r1rSZQ8
+2) https://github.com/auth0-blog/angular2-authentication-sample/blob/master/src/login/login.ts

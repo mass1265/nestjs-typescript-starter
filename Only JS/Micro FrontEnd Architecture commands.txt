@@ -1,0 +1,21 @@
+Micro FrontEnd Architecture commands:--
+===========================================
+ng new MicroBankingApp --create-application=false
+
+ng g application payment --routing
+
+ng g application bankOffice --routing
+
+ng g application loanDepartment --routing
+
+npm i webpack webpack-cli --save-dev  - install webpack cli
+
+ng add @angular-architects/module-federation --project bankOffice --port 4200
+
+ng add @angular-architects/module-federation --project loanDepartment --port 4200
+
+ng add @angular-architects/module-federation --project payment --port 4200
+
+ng s bankOffice
+
+
